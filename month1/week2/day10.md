@@ -1,0 +1,136 @@
+# Day 10 — Making Plans & Predictions
+**Thứ Năm | Tháng 1, Tuần 2**
+**Chủ đề:** Nói về kế hoạch tương lai và dự đoán — trong công việc lẫn cuộc sống
+
+---
+
+## ⏱️ Lịch 45 Phút
+
+| Thời gian | Hoạt động |
+|---|---|
+| 00–05 | Anki ôn từ |
+| 05–15 | Học từ vựng + mẫu câu |
+| 15–25 | Nghe Brian nói về plans / goals |
+| 25–35 | Shadowing |
+| 35–43 | Ghi âm: Nói về kế hoạch QC cho sprint/tháng tiếp theo |
+| 43–45 | Ghi notebook |
+
+---
+
+## 📚 Từ Vựng Hôm Nay — Future & Planning
+
+### Nói Về Kế Hoạch
+| Cụm | Mức Độ Chắc Chắn | Ví Dụ |
+|---|---|---|
+| **I'm planning to** | Chắc chắn | I'm planning to automate the regression suite. |
+| **We're going to** | Chắc chắn (đã quyết định) | We're going to start UAT next Monday. |
+| **I intend to** | Formal, có chủ đích | I intend to complete the test plan by Friday. |
+| **I'm looking to** | Flexible, đang xem xét | I'm looking to bring in a new automation engineer. |
+| **We're hoping to** | Optimistic, chưa chắc | We're hoping to finish testing by end of week. |
+| **I'm thinking about** | Chưa quyết định | I'm thinking about restructuring the QC workflow. |
+| **I'm considering** | Đang cân nhắc | I'm considering implementing a new bug tracking process. |
+
+### Dự Đoán
+| Cụm | Ví Dụ |
+|---|---|
+| **I expect [something] to** | I expect the regression to take about 2 days. |
+| **I anticipate (that)** | I anticipate some issues with the new API integration. |
+| **It's likely that** | It's likely that we'll find more bugs in the payment module. |
+| **There's a good chance** | There's a good chance we'll need to push the deadline. |
+| **I wouldn't be surprised if** | I wouldn't be surprised if this takes longer than expected. |
+| **Chances are** | Chances are the QA automation will catch these early. |
+
+---
+
+## 🗣️ Mẫu Câu Hôm Nay
+
+### Pattern 1: Sprint / Release Planning
+```
+"For the upcoming sprint, we're planning to [action].
+Our goal is to [target] by [deadline]."
+→ For the upcoming sprint, we're planning to complete automation for the login module.
+   Our goal is to have 80% test coverage by end of sprint.
+```
+
+### Pattern 2: Dự đoán rủi ro
+```
+"I anticipate [challenge]. To mitigate this, we're going to [action]."
+→ I anticipate some issues with the third-party API integration. 
+   To mitigate this, we're going to set up a mock server for testing.
+```
+
+### Pattern 3: Kế hoạch dài hạn
+```
+"Over the next [timeframe], I'm looking to [goal].
+Longer term, I intend to [bigger goal]."
+→ Over the next quarter, I'm looking to build out our automation framework.
+   Longer term, I intend to reduce manual testing effort by 40%.
+```
+
+### Pattern 4: Nói về uncertainty tự nhiên
+```
+"It depends on [factor], but ideally [plan]."
+"That said, things can change — so we have a backup plan."
+→ It depends on how quickly the dev team resolves the blockers, but ideally 
+   we'll be done testing by Thursday.
+```
+
+---
+
+## 🎧 Shadowing Script
+
+```
+"So, for next sprint, here's what we're planning.
+
+We're going to focus primarily on the new checkout flow — 
+that's our highest priority. I'm expecting that to take 
+roughly 3 days of testing, though I anticipate 
+some complexity around the payment integrations.
+
+Beyond that, we're also looking to start building 
+out our automation coverage. Right now we're at 
+around 30% — I'd like to get that to 50% by Q2.
+
+Now, I'll be honest — there's a good chance we'll 
+hit some blockers along the way. The API documentation 
+isn't complete yet. But we have a plan for that — 
+we'll run parallel manual testing while the automation 
+is being set up.
+
+Does anyone have questions about the testing approach 
+for next sprint?"
+```
+
+---
+
+## 💬 Speaking Prompt (Ghi Âm 3 Phút)
+
+> **"What are your plans for the QC team over the next 3 months? And what challenges do you anticipate?"**
+
+**Cấu trúc:**
+```
+Tháng tới:  "For next month, we're planning to..."
+Tháng 2:    "Going into month two, I'm looking to..."
+Tháng 3:    "By month three, our goal is to..."
+Challenges: "I anticipate... / There's a good chance..."
+Mitigation: "To address this, we're going to..."
+```
+
+---
+
+## ✍️ Notebook Hôm Nay
+
+```
+📅 Ngày 10 — Chủ đề: Plans & Predictions
+
+✨ 3 cụm hay nhất:
+   1. "_______________"  (mức chắc chắn: cao/trung/thấp)
+   2. "_______________"
+   3. "_______________"
+
+🎙️ Ghi âm: ___ phút  |  Tự đánh giá: __/10
+   Plans tôi nêu: _______________
+   Challenges tôi dự đoán: _______________
+
+💡 Ngày mai: Small Talk ☕
+```
