@@ -3,6 +3,18 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| ⭐ | [Julian Treasure — "How to Speak So People Want to Listen" (TED)](https://www.youtube.com/watch?v=eIho2S0ZahI) | Month 2 Final Test listening |
+| ⭐ | [Simon Sinek — "How Great Leaders Inspire Action" (TED)](https://www.youtube.com/watch?v=qp0HIF3SfI4) | Review PREP method |
+| ⭐ | [Amy Cuddy — "Your Body Language May Shape Who You Are" (TED)](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) | Confidence + body language |
+
+> **Final Test Day:** Chọn 1 TED talk → nghe không phụ đề → tóm tắt → so sánh với Month 1.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Bài Test |

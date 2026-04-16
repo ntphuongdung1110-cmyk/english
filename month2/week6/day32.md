@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Performance Review English — Phrases & Language](https://www.youtube.com/results?search_query=performance+review+english+phrases+professional) | Language của performance review |
+| 2 | [Business English — Annual Review Conversation](https://www.youtube.com/results?search_query=business+english+annual+review+conversation+manager) | Context thực tế |
+
+> **Cách dùng:** Học phrases performance review. Sau đó ghi âm bạn đang review 1 QC member trong team.
+
+---
+
 ## 📚 Từ Vựng Hôm Nay — Advanced Feedback
 
 | Cụm | Nghĩa | Ví Dụ |

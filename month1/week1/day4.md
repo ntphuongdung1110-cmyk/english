@@ -4,6 +4,18 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [English Filler Words Native Speakers Use](https://www.youtube.com/results?search_query=english+filler+words+native+speakers+use+naturally) | Học filler words tự nhiên |
+| 2 | [Sound More Natural — Stop Translating](https://www.youtube.com/results?search_query=sound+natural+english+stop+translating) | Mindset quan trọng nhất |
+| 3 | [Brian — Casual Conversation](https://www.youtube.com/@ImBrian1287/videos) | Nghe filler words trong ngữ cảnh thật |
+
+> **Cách dùng:** #1 + #2 là bắt buộc. Khi xem #3, chú ý đặc biệt đến filler words Brian dùng.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

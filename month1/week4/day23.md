@@ -4,6 +4,16 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Bất kỳ video nào](https://www.youtube.com/@ImBrian1287/videos) | Ôn tập tự do |
+
+> **Ngày ôn tập:** Xem lại highlights của tháng 1. Chuẩn bị cho Final Test ngày mai.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

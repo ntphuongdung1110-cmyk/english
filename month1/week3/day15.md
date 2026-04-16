@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [How to Ask for Clarification Politely](https://www.youtube.com/results?search_query=how+to+ask+for+clarification+politely+english+professional) | Phrases hỏi lại lịch sự |
+| 2 | [Brian — Any Conversation Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing — chú ý cách native check understanding |
+
+> **Cách dùng:** #1 học phrases. Trong #2, chú ý khi Brian không hiểu hoặc hỏi lại — anh ấy nói gì?
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

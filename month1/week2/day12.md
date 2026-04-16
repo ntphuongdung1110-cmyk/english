@@ -4,6 +4,16 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Video yêu thích nhất tuần 2](https://www.youtube.com/@ImBrian1287/videos) | Ôn lại — không phụ đề |
+
+> **Ngày ôn tập:** Không học mới. Chọn 1 video Brian đã xem tuần này → nghe không phụ đề → đánh giá comprehension.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

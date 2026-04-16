@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Virtual Meeting English — Etiquette & Phrases](https://www.youtube.com/results?search_query=virtual+meeting+english+etiquette+phrases+professional) | Phrases họp online |
+| 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+
+> **Cách dùng:** #1 học phrases họp remote. Chú ý phrases mở/đóng khi bị lag hoặc khi kết nối kém.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

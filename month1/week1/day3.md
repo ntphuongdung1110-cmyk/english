@@ -4,6 +4,18 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Opinions & Thoughts](https://www.youtube.com/results?search_query=ImBrian1287+opinion+thoughts) | Shadowing — cách native nói ý kiến |
+| 2 | [Lucy — How to Give Your Opinion](https://www.youtube.com/results?search_query=english+with+lucy+give+opinion+phrases) | Học phrases chính thức |
+| 3 | [Lucy — Agree & Disagree in English](https://www.youtube.com/results?search_query=english+with+lucy+agree+disagree) | Mở rộng patterns |
+
+> **Cách dùng:** Xem #2 trước (học phrases), rồi #1 để nghe native dùng thật.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

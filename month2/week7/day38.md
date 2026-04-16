@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Data Storytelling — Business Presentation English](https://www.youtube.com/results?search_query=data+storytelling+english+business+presentation) | Kể chuyện bằng số liệu |
+| 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+
+> **Cách dùng:** #1 học cách biến data khô khan thành câu chuyện hấp dẫn bằng tiếng Anh.
+
+---
+
 ## 📚 Từ Vựng — Describing Trends & Data
 
 ### Xu Hướng Tăng

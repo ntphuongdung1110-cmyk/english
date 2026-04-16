@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Business Meeting Simulation — English Roleplay](https://www.youtube.com/results?search_query=business+english+meeting+simulation+roleplay) | Nghe full meeting simulation |
+| 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+
+> **Hôm nay là ngày roleplay:** Xem #1 để học tone. Sau đó tự roleplay 1 meeting 5 phút và ghi âm.
+
+---
+
 ## 📚 Từ Vựng Hôm Nay — Virtual Meeting Language
 
 | Tình Huống | Câu Nói Tự Nhiên |

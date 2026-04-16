@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [WorkLife with Adam Grant — Podcast](https://www.youtube.com/results?search_query=worklife+adam+grant+podcast) | Native speed podcast — work topics |
+| 2 | [How I Built This — Guy Raz](https://www.youtube.com/results?search_query=how+i+built+this+guy+raz+podcast) | Startup stories — native speed |
+
+> **Podcast day:** Nghe 15–20 phút podcast native speed. Không cần hiểu 100% — luyện brain adapt to fast speech.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

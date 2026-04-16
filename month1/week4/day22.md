@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [TED — "How to Find Work You Love" — Scott Dinsmore](https://www.youtube.com/results?search_query=TED+how+to+find+work+you+love+scott+dinsmore) | Career language + inspiration |
+| 2 | [Brian — Career / Goals](https://www.youtube.com/results?search_query=ImBrian1287+career+goals) | Shadowing casual career talk |
+
+> **Cách dùng:** #1 TED Talk về career rất hay — xem và học vocabulary career goals.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

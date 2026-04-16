@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Lucy — Everyday Idioms Native Speakers Use](https://www.youtube.com/results?search_query=english+with+lucy+idioms+everyday+native) | Idioms từ Lucy |
+| 2 | [Learn English with TV Series — Channel](https://www.youtube.com/@LearnEnglishWithTVSeries) | Idioms trong context phim |
+
+> **Idioms day:** #1 học idioms. #2 xem 1 clip từ TV series để thấy idioms dùng trong ngữ cảnh thật.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

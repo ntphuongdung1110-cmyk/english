@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [How to Handle Questions in a Presentation — English](https://www.youtube.com/results?search_query=how+to+handle+questions+english+presentation+professionally) | Q&A handling techniques |
+| 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+
+> **Cách dùng:** Học phrases xử lý câu hỏi khó. Sau đó ghi âm mình xử lý 3 câu hỏi khó nhất của tuần.
+
+---
+
 ## 📚 Từ Vựng — Data Storytelling
 
 | Cụm | Nghĩa | Ví Dụ |

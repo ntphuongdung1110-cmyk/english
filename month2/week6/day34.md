@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Performance Review Roleplay — Manager English](https://www.youtube.com/results?search_query=performance+review+roleplay+english+manager) | Xem ví dụ thực tế |
+| 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+
+> **Roleplay ngày:** Xem #1 → sau đó tự roleplay 1 buổi 1-on-1 review với team member (ghi âm 5 phút).
+
+---
+
 ## 📚 Từ Vựng Hôm Nay — Performance Review
 
 | Cụm | Nghĩa | Ví Dụ |

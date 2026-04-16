@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [How to Present Data & Statistics in English](https://www.youtube.com/results?search_query=how+to+present+data+statistics+english+business) | Signposting + data language |
+| 2 | [Rachel's English — Presentation Pronunciation](https://www.youtube.com/results?search_query=rachel%27s+english+presentation+pronunciation) | Phát âm khi present |
+
+> **Cách dùng:** #1 học cách diễn đạt số liệu. #2 luyện phát âm các từ hay dùng khi present.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

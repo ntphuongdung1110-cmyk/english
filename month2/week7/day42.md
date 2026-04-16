@@ -3,6 +3,16 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Video yêu thích tuần 7](https://www.youtube.com/@ImBrian1287/videos) | Ôn lại — không phụ đề |
+
+> **Weekly Review:** Nghe không phụ đề. Viết scorecard tuần 7.
+
+---
+
 ## Ôn Tập Tuần 7 — Presentation Skills
 
 ```

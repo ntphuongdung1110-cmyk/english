@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| ⭐ | [Julian Treasure — "How to Speak So People Want to Listen" (TED)](https://www.youtube.com/watch?v=eIho2S0ZahI) | Final test listening material |
+| ⭐ | [Simon Sinek — "Why Good Leaders Make You Feel Safe" (TED)](https://www.youtube.com/watch?v=lmyZMtPVodo) | Review leadership language |
+
+> **Final Test Day:** Xem 1 trong 2 TED talks trên → tóm tắt bằng tiếng Anh → đánh giá bản thân.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Bài Test |

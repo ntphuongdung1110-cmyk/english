@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Chọn video thích nhất](https://www.youtube.com/@ImBrian1287/videos) | Shadowing thoải mái |
+| 2 | [Friends Clips — Learn English](https://www.youtube.com/results?search_query=friends+english+learn+subtitles+clip) | Fun listening — casual English |
+
+> **Ngày nhẹ:** #1 shadowing. #2 xem Friends để relax và nghe casual English. Đây là học mà không cảm thấy như học.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

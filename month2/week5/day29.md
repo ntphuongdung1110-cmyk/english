@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Casual Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing thoải mái |
+| 2 | [Real English Conversations — Intermediate](https://www.youtube.com/results?search_query=real+english+conversations+intermediate+level) | Nghe natural conversation |
+
+> **Ngày nhẹ:** Shadowing thoải mái. Không áp lực — enjoy the language.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

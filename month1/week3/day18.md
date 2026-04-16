@@ -4,6 +4,16 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Bất kỳ video nào](https://www.youtube.com/@ImBrian1287/videos) | Ôn lại tuần 3 — không phụ đề |
+
+> **Ngày ôn tập:** Nghe Brian không phụ đề. Tự tóm tắt nội dung bằng tiếng Anh sau khi xem.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

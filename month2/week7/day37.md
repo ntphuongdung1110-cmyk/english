@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| ⭐ | [Simon Sinek — "How Great Leaders Inspire Action" (TED)](https://www.youtube.com/watch?v=qp0HIF3SfI4) | **MUST WATCH** — PREP method trong thực tế |
+| 2 | [PREP Method — Public Speaking Tips](https://www.youtube.com/results?search_query=PREP+method+public+speaking+english+professional) | Học PREP method |
+
+> **Cách dùng:** Xem TED Talk của Sinek → nhận ra anh ấy dùng PREP structure như thế nào → xem #2 để hiểu rõ technique.
+
+---
+
 ## 📚 PREP Method
 
 ```

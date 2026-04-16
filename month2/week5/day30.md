@@ -3,6 +3,16 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Video yêu thích tuần 5](https://www.youtube.com/@ImBrian1287/videos) | Ôn lại — không phụ đề |
+
+> **Weekly Review:** Nghe Brian không phụ đề. Viết scorecard tuần này.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

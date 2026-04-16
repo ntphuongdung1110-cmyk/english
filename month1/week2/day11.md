@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Small Talk — What Native Speakers Say](https://www.youtube.com/results?search_query=small+talk+english+native+speakers+what+to+say) | Phrases small talk thiết yếu |
+| 2 | [Brian — Casual / Small Talk](https://www.youtube.com/results?search_query=ImBrian1287+small+talk+casual) | Shadowing — small talk tự nhiên |
+
+> **Cách dùng:** #1 học phrases. #2 shadowing phong cách casual của Brian.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

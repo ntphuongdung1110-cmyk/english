@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [How to Interrupt Politely — English Meetings](https://www.youtube.com/results?search_query=how+to+interrupt+politely+english+meeting+professional) | Ngắt lời lịch sự |
+| 2 | [English with Lucy — Polite Phrases](https://www.youtube.com/results?search_query=english+with+lucy+polite+phrases+professional) | Phrases lịch sự mở rộng |
+
+> **Cách dùng:** Học từng phrase → đọc to 3 lần → ghi âm mình dùng phrase đó trong 1 câu.
+
+---
+
 ## 📚 Từ Vựng Hôm Nay
 
 | Từ / Cụm | Nghĩa | Ví Dụ |

@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [How to Have Difficult Conversations at Work](https://www.youtube.com/results?search_query=how+to+have+difficult+conversations+at+work+english) | Phrases + mindset |
+| 2 | [Brian — Any Serious Topic Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing tone nghiêm túc |
+
+> **Cách dùng:** #1 học cách tiếp cận. Trong #2, chú ý tone của Brian khi nói chủ đề nghiêm túc.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

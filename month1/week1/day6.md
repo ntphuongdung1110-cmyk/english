@@ -4,6 +4,16 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Chọn video yêu thích nhất tuần](https://www.youtube.com/@ImBrian1287/videos) | Ôn lại — nghe KHÔNG có phụ đề |
+
+> **Cách dùng:** Chọn 1 video Brian bạn đã xem tuần này. Xem lại KHÔNG bật phụ đề. Kiểm tra xem bạn hiểu được bao nhiêu %.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

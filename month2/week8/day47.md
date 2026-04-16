@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Video bất kỳ](https://www.youtube.com/@ImBrian1287/videos) | Shadowing thoải mái |
+| 2 | [The Office — Learn English](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Fun English — casual + humor |
+
+> **Ngày nhẹ:** Shadowing Brian + xem The Office để relax. Chuẩn bị tâm lý cho Final Test ngày mai.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

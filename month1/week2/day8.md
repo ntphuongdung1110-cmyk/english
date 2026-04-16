@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [English Phrases — Problem Solving Professional](https://www.youtube.com/results?search_query=english+phrases+problem+solving+professional) | Phrases chính |
+| 2 | [Business English — Meetings: Problems & Solutions](https://www.youtube.com/results?search_query=business+english+meetings+problems+solutions) | Context meetings thật |
+
+> **Cách dùng:** Xem cả 2. Chú ý cách họ nêu vấn đề → đề xuất giải pháp → confirm.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

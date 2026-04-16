@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Test Automation Discussion — English](https://www.youtube.com/results?search_query=test+automation+discussion+english+podcast) | English trong context QC/tech |
+| 2 | [Brian — Tech / Work Topic](https://www.youtube.com/@ImBrian1287/videos) | Shadowing chính |
+
+> **Cách dùng:** #1 để nghe English chuyên ngành. #2 shadowing Brian.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

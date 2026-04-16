@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [How to Give Positive Feedback — English Professional](https://www.youtube.com/results?search_query=how+to+give+positive+feedback+english+professional+workplace) | Positive feedback language |
+| 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+
+> **Cách dùng:** Học phrases positive feedback từ #1. Nghĩ về 1 người trong team và thực hành feedback cho họ.
+
+---
+
 ## 📚 Từ Vựng Hôm Nay
 
 | Từ / Cụm | Ví Dụ |

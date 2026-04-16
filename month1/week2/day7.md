@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [How to Tell a Story in English](https://www.youtube.com/results?search_query=how+to+tell+a+story+in+english+naturally+native) | Học storytelling techniques |
+| 2 | [Brian — Story / Personal Experience](https://www.youtube.com/results?search_query=ImBrian1287+story+experience) | Shadowing — kể chuyện như native |
+
+> **Cách dùng:** #1 để học structure. #2 để shadowing cách kể chuyện tự nhiên.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

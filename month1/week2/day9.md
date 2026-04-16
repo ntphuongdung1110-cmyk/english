@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [How to Disagree Politely in English](https://www.youtube.com/results?search_query=how+to+disagree+politely+in+english+professional) | Phrases phản đối chuyên nghiệp |
+| 2 | [Lucy — Polite Disagreement Phrases](https://www.youtube.com/results?search_query=english+with+lucy+polite+disagreement+phrases) | Học thêm cách diễn đạt |
+
+> **Cách dùng:** Học phrases từ #1 và #2. Sau đó thực hành bằng cách đọc to từng phrase 3 lần.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

@@ -4,6 +4,18 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| ⭐ | [Simon Sinek — "Why Good Leaders Make You Feel Safe" (TED)](https://www.youtube.com/watch?v=lmyZMtPVodo) | Extensive listening #1 |
+| ⭐ | [Amy Cuddy — "Your Body Language May Shape Who You Are" (TED)](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) | Extensive listening #2 |
+| ⭐ | [Brené Brown — "The Power of Vulnerability" (TED)](https://www.youtube.com/watch?v=iCvmsMzlF7o) | Extensive listening #3 |
+
+> **TED Deep Dive Day:** Chọn 1 trong 3 TED talks → nghe TOÀN BỘ không dừng → tóm tắt 200 từ bằng tiếng Anh.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

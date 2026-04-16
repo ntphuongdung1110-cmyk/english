@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Impromptu Speaking — Think on Your Feet in English](https://www.youtube.com/results?search_query=impromptu+speaking+english+tips+think+on+feet) | Nói tự phát, không chuẩn bị |
+| 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+
+> **Cách dùng:** Học technique nói tự phát. Sau đó practice: set timer 2 phút → nói về bất kỳ chủ đề ngẫu nhiên nào.
+
+---
+
 ## 📚 Từ Vựng — Q&A Language
 
 | Tình Huống | Câu Nói |

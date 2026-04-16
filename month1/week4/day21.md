@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Life / Stress / Wellbeing Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing — chủ đề life balance |
+| 2 | [Huberman Lab — Sleep & Stress](https://www.youtube.com/results?search_query=huberman+lab+stress+wellbeing+english) | Native English về wellbeing |
+
+> **Cách dùng:** #1 chọn video Brian về cuộc sống/stress. #2 là bonus — nghe người native nói về chủ đề bạn đang học.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |

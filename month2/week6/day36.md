@@ -3,6 +3,16 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Video yêu thích tuần 6](https://www.youtube.com/@ImBrian1287/videos) | Ôn lại — không phụ đề |
+
+> **Weekly Review:** Nghe không phụ đề. Tự đánh giá tuần 6.
+
+---
+
 ## Ôn Tập Từ Vựng Tuần 6
 
 ```

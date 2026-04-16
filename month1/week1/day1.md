@@ -4,6 +4,17 @@
 
 ---
 
+## 🎬 YouTube Hôm Nay — Bấm Vào Nghe
+
+| # | Video | Mục đích |
+|---|---|---|
+| 1 | [Brian — Chọn video mới nhất](https://www.youtube.com/@ImBrian1287/videos) | Shadowing chính — nghe + bắt chước |
+| 2 | [Rachel's English — How to Introduce Yourself](https://www.youtube.com/results?search_query=rachel%27s+english+introduce+yourself) | Phát âm chuẩn khi tự giới thiệu |
+
+> **Cách dùng:** Bấm link #1 → chọn bất kỳ video → nghe 1 lần → chọn đoạn 45 giây → shadowing 5 lần.
+
+---
+
 ## ⏱️ Lịch 45 Phút
 
 | Thời gian | Hoạt động |
