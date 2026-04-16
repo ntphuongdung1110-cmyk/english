@@ -310,3 +310,100 @@ Tháng 3+:   + Deck 4 (Idioms)
 Mỗi ngày:  5–10 phút Anki (00–05 trong lịch học buổi sáng)
 Mục tiêu:  Anki retention rate > 85%
 ```
+
+---
+
+## Deck 6 — Daily Life Vocabulary (58 cards)
+**Từ vựng dùng hằng ngày — casual, tự nhiên, như người bản xứ**
+
+### Feelings & Emotional States
+
+| Từ / Cụm | Nghĩa | Ví dụ thực tế |
+|---|---|---|
+| **drained** | Kiệt sức, mệt hết năng lượng | "I'm completely drained after back-to-back meetings all day." |
+| **overwhelmed** | Bị áp đảo, quá tải | "I'm overwhelmed — 3 deadlines hit at the same time." |
+| **relieved** | Nhẹ nhõm, trút được gánh nặng | "I was so relieved when the bug was fixed before go-live." |
+| **pumped** | Hứng khởi, phấn khích, sẵn sàng | "The team is pumped for the new product launch." |
+| **frustrated** | Bực bội, thất vọng (nhẹ) | "I get frustrated when requirements keep changing last minute." |
+| **anxious** | Lo lắng, hồi hộp | "I'm a bit anxious about tomorrow's presentation to the board." |
+| **content** | Hài lòng, thấy ổn | "I'm content with how things went this week." |
+| **burnt out** | Kiệt sức hoàn toàn, không còn động lực | "After 3 months of crunch, I'm completely burnt out." |
+| **restless** | Bồn chồn, không yên | "I've been restless since the production incident — can't sleep." |
+| **stoked** | Rất hứng khởi, phấn khích cao độ | "I'm stoked about the new automation framework we're adopting." |
+
+### Daily Actions (Casual Verbs)
+
+| Từ / Cụm | Nghĩa | Ví dụ thực tế |
+|---|---|---|
+| **grab** | Lấy nhanh / tranh thủ | "Let me grab a coffee before the standup." |
+| **catch up** | Cập nhật / gặp lại sau thời gian dài | "We should catch up — it's been weeks since we talked." |
+| **hang out** | Đi chơi, dành thời gian cùng ai | "I'm hanging out with friends this Saturday — finally!" |
+| **chill (out)** | Thư giãn, không làm gì | "I just need to chill this weekend — no screens." |
+| **squeeze in** | Sắp xếp thêm vào lịch đã bận | "Can we squeeze in a quick sync at 4pm?" |
+| **crash** | Ngủ ngay lập tức / sập vì mệt | "I'll probably crash the moment I get home tonight." |
+| **skip** | Bỏ qua, không tham gia | "I'm skipping lunch today — too much to handle." |
+| **hit the gym** | Đi tập gym | "I try to hit the gym 3 mornings a week before work." |
+| **run errands** | Làm việc vặt, chạy việc | "I need to run some errands after work — bank, grocery, etc." |
+| **wind down** | Thư giãn dần trước khi ngủ | "I wind down by reading for 20 minutes before bed." |
+| **treat yourself** | Tự thưởng cho bản thân | "After that brutal sprint — go treat yourself to something nice." |
+| **fuel up** | Nạp năng lượng (ăn/uống) | "Let me fuel up before the afternoon session — starving." |
+
+### Describing Situations
+
+| Từ / Cụm | Nghĩa | Ví dụ thực tế |
+|---|---|---|
+| **hectic** | Hỗn loạn, bận rộn điên cuồng | "It's been a hectic week — I barely had time to breathe." |
+| **rough** | Khó khăn, vất vả | "That was a rough sprint — too many blockers." |
+| **smooth** | Suôn sẻ, trơn tru | "The deployment went pretty smooth this time. No issues." |
+| **packed** | Dày đặc, bận kín lịch | "My calendar is completely packed until Thursday." |
+| **laid-back** | Thoải mái, không căng thẳng | "The team has a really laid-back vibe on Fridays." |
+| **decent** | Ổn, chấp nhận được | "The coffee shop next door is decent — nothing special." |
+| **tight** | Chật hẹp (thời gian / ngân sách) | "The deadline is really tight — we need to prioritize." |
+| **cozy** | Ấm cúng, thoải mái dễ chịu | "I love working from my cozy corner in the café." |
+| **legit** | Thật sự, hợp lệ, xác thực | "That's a legit concern — we should address it." |
+| **solid** | Tốt, chắc chắn, đáng tin | "That was a solid presentation — well structured." |
+
+### Time & Schedule
+
+| Từ / Cụm | Nghĩa | Ví dụ thực tế |
+|---|---|---|
+| **first thing** | Việc đầu tiên, ngay khi bắt đầu | "I check my messages first thing every morning." |
+| **in a bit** | Lát nữa, chẳng mấy chốc | "I'll be done in a bit — just finishing this test case." |
+| **right away** | Ngay lập tức | "I'll look into that right away." |
+| **at some point** | Vào lúc nào đó | "We should sit down and plan this at some point." |
+| **by EOD** | Trước khi hết ngày làm việc | "Can you send me the report by EOD?" |
+| **down the road** | Trong tương lai (xa hơn) | "We'll deal with that technical debt down the road." |
+| **in the meantime** | Trong thời gian chờ đợi | "In the meantime, let's start drafting the test plan." |
+| **at the last minute** | Vào phút chót | "They always send feedback at the last minute." |
+
+### Food & Lifestyle
+
+| Từ / Cụm | Nghĩa | Ví dụ thực tế |
+|---|---|---|
+| **grab a bite** | Ăn nhanh, tranh thủ ăn | "Want to grab a bite before the afternoon session?" |
+| **have a craving** | Thèm ăn thứ gì đó | "I'm having a serious craving for pho right now." |
+| **order in** | Đặt đồ ăn về nhà / văn phòng | "Let's order in tonight — too tired to cook." |
+| **eat clean** | Ăn lành mạnh, ít dầu mỡ | "I've been trying to eat clean this week." |
+| **skip breakfast** | Bỏ bữa sáng | "I skip breakfast when I'm running late." |
+| **a quick bite** | Một bữa ăn nhanh | "Let's have a quick bite between sessions." |
+
+### Small Talk & Natural Reactions
+
+| Câu / Cụm | Nghĩa | Dùng khi |
+|---|---|---|
+| **"How's everything?"** | Mọi thứ thế nào rồi? | Hỏi thăm chung chung |
+| **"What's new?"** | Có gì mới không? | Gặp lại sau thời gian |
+| **"How did it go?"** | Diễn ra như thế nào? | Hỏi về sự kiện vừa xong |
+| **"Tell me about it!"** | Tôi biết cảm giác đó! | Đồng cảm mạnh |
+| **"No way!"** | Không thể nào! | Ngạc nhiên |
+| **"I can relate."** | Tôi hiểu cảm giác đó. | Đồng cảm nhẹ |
+| **"Same here."** | Tôi cũng vậy. | Đồng ý nhanh |
+| **"Not gonna lie..."** | Nói thật nhé... | Trước khi nói thật |
+| **"Honestly..."** | Thật ra..., Thành thật mà nói... | Chia sẻ ý kiến thật |
+| **"To be fair..."** | Mà nói thật..., Nhìn nhận công bằng... | Đưa ra góc nhìn khác |
+| **"Any plans for the weekend?"** | Cuối tuần có kế hoạch gì không? | Small talk cuối tuần |
+| **"Long time no see!"** | Lâu rồi không gặp! | Gặp lại sau lâu |
+
+---
+
+*Tổng cộng: **224 cards** · 6 decks · [Tải .apkg để import vào Anki](./english_qc_manager.apkg)*
