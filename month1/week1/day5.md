@@ -8,10 +8,13 @@
 
 | # | Video | Mục đích |
 |---|---|---|
-| 1 | [TED — Productivity & Quality (Software)](https://www.youtube.com/results?search_query=TED+talk+productivity+quality+software) | Shadowing — English trong tech context |
+| ⭐ | [Simon Sinek — "How Great Leaders Inspire Action" (TED)](https://www.youtube.com/watch?v=qp0HIF3SfI4) | **Shadowing chính** — leadership English chuẩn mực |
 | 2 | [Business English — Meetings & Reports](https://www.youtube.com/results?search_query=business+english+vocabulary+meetings+professional) | QC professional vocabulary |
+| 🍿 | [Modern Family — Learn English Clips](https://www.youtube.com/results?search_query=modern+family+learn+english+clip) | Buổi tối — casual workplace humor |
 
-> **Cách dùng:** #1 để nghe English chuyên ngành tech. #2 để học từ vựng QC/business.
+> **Cách dùng:** Xem TED Talk của Sinek (18 phút) — shadowing đoạn bạn thấy hay nhất. #2 học vocab QC.
+>
+> **Note:** Sinek dùng structure PREP rất tự nhiên — sau này học đến Day 37 bạn sẽ nhận ra.
 
 ---
 

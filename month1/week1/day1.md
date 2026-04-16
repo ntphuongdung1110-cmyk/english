@@ -10,8 +10,12 @@
 |---|---|---|
 | 1 | [Brian — Chọn video mới nhất](https://www.youtube.com/@ImBrian1287/videos) | Shadowing chính — nghe + bắt chước |
 | 2 | [Rachel's English — How to Introduce Yourself](https://www.youtube.com/results?search_query=rachel%27s+english+introduce+yourself) | Phát âm chuẩn khi tự giới thiệu |
+| ⭐ | [Julian Treasure — "How to Speak So People Want to Listen" (TED)](https://www.youtube.com/watch?v=eIho2S0ZahI) | **Xem tối nay** — TED Talk hay nhất về speaking |
+| 🍿 | [Friends — Learn English Clips](https://www.youtube.com/results?search_query=friends+english+learn+subtitles+clip) | Buổi tối — nghe casual English + cười |
 
-> **Cách dùng:** Bấm link #1 → chọn bất kỳ video → nghe 1 lần → chọn đoạn 45 giây → shadowing 5 lần.
+> **Cách dùng buổi sáng:** Bấm link #1 → chọn bất kỳ video → nghe 1 lần → chọn đoạn 45 giây → shadowing 5 lần.
+>
+> **Tối nay:** Xem TED Talk của Julian Treasure (18 phút) — video này sẽ thay đổi cách bạn nhìn về việc học tiếng Anh.
 
 ---
 

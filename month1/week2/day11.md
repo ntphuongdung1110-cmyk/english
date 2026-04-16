@@ -10,8 +10,12 @@
 |---|---|---|
 | 1 | [Small Talk — What Native Speakers Say](https://www.youtube.com/results?search_query=small+talk+english+native+speakers+what+to+say) | Phrases small talk thiết yếu |
 | 2 | [Brian — Casual / Small Talk](https://www.youtube.com/results?search_query=ImBrian1287+small+talk+casual) | Shadowing — small talk tự nhiên |
+| ⭐ | [Brené Brown — "The Power of Vulnerability" (TED)](https://www.youtube.com/watch?v=iCvmsMzlF7o) | Xem tối — TED về connection + authentic conversation |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — small talk của người Mỹ tại văn phòng |
 
 > **Cách dùng:** #1 học phrases. #2 shadowing phong cách casual của Brian.
+>
+> **Tối nay:** TED của Brené Brown là 1 trong những TED hay nhất về kết nối với người khác — nghe thử 10 phút.
 
 ---
 

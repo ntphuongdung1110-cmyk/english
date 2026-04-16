@@ -9,8 +9,12 @@
 | # | Video | Mục đích |
 |---|---|---|
 | 1 | [Brian — Chọn video yêu thích nhất tuần](https://www.youtube.com/@ImBrian1287/videos) | Ôn lại — nghe KHÔNG có phụ đề |
+| ⭐ | [Julian Treasure — "How to Speak So People Want to Listen" (TED)](https://www.youtube.com/watch?v=eIho2S0ZahI) | **Phần thưởng cuối tuần** — xem nếu chưa xem từ Day 1 |
+| 🍿 | [Friends — English Clips](https://www.youtube.com/results?search_query=friends+english+learn+subtitles+clip) | Bonus tối — relax + nghe English |
 
-> **Cách dùng:** Chọn 1 video Brian bạn đã xem tuần này. Xem lại KHÔNG bật phụ đề. Kiểm tra xem bạn hiểu được bao nhiêu %.
+> **Ngày nghỉ ngơi + ôn tập:** Xem lại Brian không phụ đề → đánh giá comprehension.
+>
+> **Phần thưởng:** Nếu bạn đã học đủ 5 ngày tuần này — xem TED Talk Julian Treasure. Bạn xứng đáng được xem cái này.
 
 ---
 
