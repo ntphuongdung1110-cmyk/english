@@ -9,6 +9,7 @@
 | # | Video | Mục đích |
 |---|---|---|
 | ⭐ | [Simon Sinek — "Why Good Leaders Make You Feel Safe" (TED)](https://www.youtube.com/watch?v=lmyZMtPVodo) | **MUST WATCH** — leadership English đỉnh cao |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — leadership humor tại văn phòng |
 
 > **Cách dùng:** Đây là TED Talk bắt buộc. Xem 1 lần với phụ đề → xem lần 2 không phụ đề → shadowing đoạn bạn thích nhất (30 giây).
 

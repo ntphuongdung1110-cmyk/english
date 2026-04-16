@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [WorkLife with Adam Grant — Podcast](https://www.youtube.com/results?search_query=worklife+adam+grant+podcast) | Native speed podcast — work topics |
 | 2 | [How I Built This — Guy Raz](https://www.youtube.com/results?search_query=how+i+built+this+guy+raz+podcast) | Startup stories — native speed |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — workplace humor + filler words |
 
 > **Podcast day:** Nghe 15–20 phút podcast native speed. Không cần hiểu 100% — luyện brain adapt to fast speech.
 

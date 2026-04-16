@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [Virtual Meeting English — Etiquette & Phrases](https://www.youtube.com/results?search_query=virtual+meeting+english+etiquette+phrases+professional) | Phrases họp online |
 | 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — workplace humor + filler words |
 
 > **Cách dùng:** #1 học phrases họp remote. Chú ý phrases mở/đóng khi bị lag hoặc khi kết nối kém.
 

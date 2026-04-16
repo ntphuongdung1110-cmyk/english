@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [How to Give Positive Feedback — English Professional](https://www.youtube.com/results?search_query=how+to+give+positive+feedback+english+professional+workplace) | Positive feedback language |
 | 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — workplace humor + filler words |
 
 > **Cách dùng:** Học phrases positive feedback từ #1. Nghĩ về 1 người trong team và thực hành feedback cho họ.
 

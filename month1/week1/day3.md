@@ -11,6 +11,8 @@
 | 1 | [Brian — Opinions & Thoughts](https://www.youtube.com/results?search_query=ImBrian1287+opinion+thoughts) | Shadowing — cách native nói ý kiến |
 | 2 | [Lucy — How to Give Your Opinion](https://www.youtube.com/results?search_query=english+with+lucy+give+opinion+phrases) | Học phrases chính thức |
 | 3 | [Lucy — Agree & Disagree in English](https://www.youtube.com/results?search_query=english+with+lucy+agree+disagree) | Mở rộng patterns |
+| ⭐ | [Brené Brown — "The Power of Vulnerability" (TED)](https://www.youtube.com/watch?v=iCvmsMzlF7o) | TED direct — authentic connection |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — workplace humor + filler words |
 
 > **Cách dùng:** Xem #2 trước (học phrases), rồi #1 để nghe native dùng thật.
 

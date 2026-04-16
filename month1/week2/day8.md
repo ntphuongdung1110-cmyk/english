@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [English Phrases — Problem Solving Professional](https://www.youtube.com/results?search_query=english+phrases+problem+solving+professional) | Phrases chính |
 | 2 | [Business English — Meetings: Problems & Solutions](https://www.youtube.com/results?search_query=business+english+meetings+problems+solutions) | Context meetings thật |
+| 🍿 | [Friends — English Clips](https://www.youtube.com/results?search_query=friends+english+learn+subtitles+clip) | Buổi tối — casual English + cười |
 
 > **Cách dùng:** Xem cả 2. Chú ý cách họ nêu vấn đề → đề xuất giải pháp → confirm.
 

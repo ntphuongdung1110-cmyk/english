@@ -9,6 +9,8 @@
 | # | Video | Mục đích |
 |---|---|---|
 | 1 | [Brian — Bất kỳ video nào](https://www.youtube.com/@ImBrian1287/videos) | Ôn lại tuần 3 — không phụ đề |
+| ⭐ | [Simon Sinek — "Why Good Leaders Make You Feel Safe" (TED)](https://www.youtube.com/watch?v=lmyZMtPVodo) | TED direct — leadership English |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — workplace humor + filler words |
 
 > **Ngày ôn tập:** Nghe Brian không phụ đề. Tự tóm tắt nội dung bằng tiếng Anh sau khi xem.
 

@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [Data Storytelling — Business Presentation English](https://www.youtube.com/results?search_query=data+storytelling+english+business+presentation) | Kể chuyện bằng số liệu |
 | 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — workplace humor + filler words |
 
 > **Cách dùng:** #1 học cách biến data khô khan thành câu chuyện hấp dẫn bằng tiếng Anh.
 

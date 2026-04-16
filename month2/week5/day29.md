@@ -10,6 +10,8 @@
 |---|---|---|
 | 1 | [Brian — Casual Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing thoải mái |
 | 2 | [Real English Conversations — Intermediate](https://www.youtube.com/results?search_query=real+english+conversations+intermediate+level) | Nghe natural conversation |
+| ⭐ | [Simon Sinek — "How Great Leaders Inspire Action" (TED)](https://www.youtube.com/watch?v=qp0HIF3SfI4) | TED direct — PREP method in action |
+| 🍿 | [Learn English with TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries) | Buổi tối — idioms + expressions từ phim |
 
 > **Ngày nhẹ:** Shadowing thoải mái. Không áp lực — enjoy the language.
 

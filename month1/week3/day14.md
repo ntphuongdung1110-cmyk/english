@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [How to Give Constructive Feedback in English](https://www.youtube.com/results?search_query=how+to+give+constructive+feedback+in+english+professional) | Feedback phrases thực tế |
 | 2 | [TED — The Secret to Giving Great Feedback](https://www.youtube.com/results?search_query=TED+giving+great+feedback+workplace) | Mindset + technique từ expert |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — workplace humor + filler words |
 
 > **Cách dùng:** #2 là TED Talk rất hay — xem trước để có mindset đúng, sau đó #1 để học phrases cụ thể.
 

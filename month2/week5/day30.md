@@ -8,6 +8,8 @@
 | # | Video | Mục đích |
 |---|---|---|
 | 1 | [Brian — Video yêu thích tuần 5](https://www.youtube.com/@ImBrian1287/videos) | Ôn lại — không phụ đề |
+| ⭐ | [Julian Treasure — "How to Speak So People Want to Listen" (TED)](https://www.youtube.com/watch?v=eIho2S0ZahI) | TED direct — speaking mastery |
+| 🍿 | [Friends — English Clips](https://www.youtube.com/results?search_query=friends+english+learn+subtitles+clip) | Buổi tối — casual English + cười |
 
 > **Weekly Review:** Nghe Brian không phụ đề. Viết scorecard tuần này.
 

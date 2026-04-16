@@ -8,6 +8,8 @@
 | # | Video | Mục đích |
 |---|---|---|
 | 1 | [Brian — Video yêu thích tuần 7](https://www.youtube.com/@ImBrian1287/videos) | Ôn lại — không phụ đề |
+| ⭐ | [Brené Brown — "The Power of Vulnerability" (TED)](https://www.youtube.com/watch?v=iCvmsMzlF7o) | TED direct — authentic connection |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — workplace humor + filler words |
 
 > **Weekly Review:** Nghe không phụ đề. Viết scorecard tuần 7.
 

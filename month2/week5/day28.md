@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [Business Meeting Simulation — English Roleplay](https://www.youtube.com/results?search_query=business+english+meeting+simulation+roleplay) | Nghe full meeting simulation |
 | 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+| 🍿 | [Modern Family — English Clips](https://www.youtube.com/results?search_query=modern+family+learn+english+clip) | Buổi tối — casual family English |
 
 > **Hôm nay là ngày roleplay:** Xem #1 để học tone. Sau đó tự roleplay 1 meeting 5 phút và ghi âm.
 

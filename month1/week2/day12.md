@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [Brian — Video yêu thích nhất tuần 2](https://www.youtube.com/@ImBrian1287/videos) | Ôn lại — không phụ đề |
 | ⭐ | [Amy Cuddy — "Your Body Language May Shape Who You Are" (TED)](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) | Phần thưởng tuần 2 — confidence + presence |
+| 🍿 | [Friends — English Clips](https://www.youtube.com/results?search_query=friends+english+learn+subtitles+clip) | Buổi tối — relax sau tuần học |
 
 > **Ngày ôn tập:** Không học mới. Xem lại Brian không phụ đề → đánh giá comprehension.
 >

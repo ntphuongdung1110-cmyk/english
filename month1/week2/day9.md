@@ -10,6 +10,8 @@
 |---|---|---|
 | 1 | [How to Disagree Politely in English](https://www.youtube.com/results?search_query=how+to+disagree+politely+in+english+professional) | Phrases phản đối chuyên nghiệp |
 | 2 | [Lucy — Polite Disagreement Phrases](https://www.youtube.com/results?search_query=english+with+lucy+polite+disagreement+phrases) | Học thêm cách diễn đạt |
+| ⭐ | [Amy Cuddy — "Your Body Language May Shape Who You Are" (TED)](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) | TED direct — confidence + presence |
+| 🍿 | [Learn English with TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries) | Buổi tối — idioms + expressions từ phim |
 
 > **Cách dùng:** Học phrases từ #1 và #2. Sau đó thực hành bằng cách đọc to từng phrase 3 lần.
 

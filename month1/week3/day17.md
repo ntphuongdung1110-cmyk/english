@@ -10,6 +10,8 @@
 |---|---|---|
 | 1 | [How to Have Difficult Conversations at Work](https://www.youtube.com/results?search_query=how+to+have+difficult+conversations+at+work+english) | Phrases + mindset |
 | 2 | [Brian — Any Serious Topic Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing tone nghiêm túc |
+| ⭐ | [Brené Brown — "The Power of Vulnerability" (TED)](https://www.youtube.com/watch?v=iCvmsMzlF7o) | TED direct — authentic connection |
+| 🍿 | [Friends — English Clips](https://www.youtube.com/results?search_query=friends+english+learn+subtitles+clip) | Buổi tối — casual English + cười |
 
 > **Cách dùng:** #1 học cách tiếp cận. Trong #2, chú ý tone của Brian khi nói chủ đề nghiêm túc.
 

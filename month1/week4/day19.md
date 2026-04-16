@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [Test Automation Discussion — English](https://www.youtube.com/results?search_query=test+automation+discussion+english+podcast) | English trong context QC/tech |
 | 2 | [Brian — Tech / Work Topic](https://www.youtube.com/@ImBrian1287/videos) | Shadowing chính |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — workplace humor + filler words |
 
 > **Cách dùng:** #1 để nghe English chuyên ngành. #2 shadowing Brian.
 

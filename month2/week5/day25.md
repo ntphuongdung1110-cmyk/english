@@ -10,6 +10,7 @@
 |---|---|---|
 | ⭐ | [Julian Treasure — "How to Speak So People Want to Listen" (TED)](https://www.youtube.com/watch?v=eIho2S0ZahI) | **MUST WATCH** — presentation mastery |
 | 2 | [Business English — Meeting Opening Phrases](https://www.youtube.com/results?search_query=business+english+meeting+opening+phrases+professional) | Phrases mở meeting |
+| 🍿 | [Modern Family — English Clips](https://www.youtube.com/results?search_query=modern+family+learn+english+clip) | Buổi tối — casual English sau ngày học nặng |
 
 > **Cách dùng:** TED Talk của Julian Treasure là bắt buộc — rất hay và liên quan trực tiếp đến hôm nay.
 

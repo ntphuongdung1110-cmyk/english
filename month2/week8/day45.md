@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [Lex Fridman Podcast — Tech & AI](https://www.youtube.com/results?search_query=lex+fridman+podcast+technology+AI) | Very fast native — challenge mode |
 | 2 | [American Natural Fast Conversation](https://www.youtube.com/results?search_query=fast+natural+american+english+conversation) | Speed training |
+| 🍿 | [Friends — English Clips](https://www.youtube.com/results?search_query=friends+english+learn+subtitles+clip) | Buổi tối — casual English + cười |
 
 > **Speed training day:** Hôm nay chủ đích nghe tốc độ nhanh. Mục tiêu không phải hiểu hết — mà là train tai quen với fast speech.
 

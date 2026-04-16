@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [TED — "How to Find Work You Love" — Scott Dinsmore](https://www.youtube.com/results?search_query=TED+how+to+find+work+you+love+scott+dinsmore) | Career language + inspiration |
 | 2 | [Brian — Career / Goals](https://www.youtube.com/results?search_query=ImBrian1287+career+goals) | Shadowing casual career talk |
+| 🍿 | [Modern Family — English Clips](https://www.youtube.com/results?search_query=modern+family+learn+english+clip) | Buổi tối — casual family English |
 
 > **Cách dùng:** #1 TED Talk về career rất hay — xem và học vocabulary career goals.
 

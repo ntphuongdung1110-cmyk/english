@@ -10,6 +10,8 @@
 |---|---|---|
 | 1 | [How to Run a Meeting in English](https://www.youtube.com/results?search_query=how+to+run+a+meeting+in+english+professional+phrases) | Phrases điều hành meeting |
 | 2 | [Business English — Meeting Vocabulary](https://www.youtube.com/results?search_query=business+english+meeting+vocabulary+phrases) | Từ vựng chuyên sâu |
+| ⭐ | [Julian Treasure — "How to Speak So People Want to Listen" (TED)](https://www.youtube.com/watch?v=eIho2S0ZahI) | TED direct — speaking mastery |
+| 🍿 | [Modern Family — English Clips](https://www.youtube.com/results?search_query=modern+family+learn+english+clip) | Buổi tối — casual family English |
 
 > **Cách dùng:** Xem #1 trước — ghi lại 5 phrases hay nhất. Xem #2 để mở rộng vocabulary.
 

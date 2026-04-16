@@ -9,6 +9,7 @@
 | # | Video | Mục đích |
 |---|---|---|
 | 1 | [Brian — Bất kỳ video nào](https://www.youtube.com/@ImBrian1287/videos) | Ôn tập tự do |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — workplace humor + filler words |
 
 > **Ngày ôn tập:** Xem lại highlights của tháng 1. Chuẩn bị cho Final Test ngày mai.
 

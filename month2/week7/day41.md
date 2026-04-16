@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [Full Business Presentation Example — Professional English](https://www.youtube.com/results?search_query=business+presentation+english+example+professional+15+minutes) | Xem presentation hoàn chỉnh |
 | ⭐ | [Simon Sinek — "How Great Leaders Inspire Action" (TED)](https://www.youtube.com/watch?v=qp0HIF3SfI4) | Model presentation để shadowing |
+| 🍿 | [Learn English with TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries) | Buổi tối — idioms + expressions từ phim |
 
 > **Full presentation day:** Xem Sinek → học structure → sau đó tự present 1 QC topic 5 phút và ghi âm.
 

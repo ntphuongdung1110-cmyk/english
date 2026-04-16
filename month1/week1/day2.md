@@ -11,6 +11,7 @@
 | 1 | [Brian — A Day In My Life](https://www.youtube.com/results?search_query=ImBrian1287+day+in+my+life) | Shadowing — daily routine vocabulary |
 | 2 | [Lucy — Work Vocabulary](https://www.youtube.com/results?search_query=english+with+lucy+work+vocabulary) | Học từ vựng công việc |
 | 3 | [American Day In The Life Vlog](https://www.youtube.com/results?search_query=american+day+in+the+life+vlog) | Fun listening — native speed |
+| 🍿 | [Friends — English Clips](https://www.youtube.com/results?search_query=friends+english+learn+subtitles+clip) | Buổi tối — casual English + cười |
 
 > **Cách dùng:** #1 là chính (shadowing). #2 học vocab. #3 là bonus buổi tối.
 

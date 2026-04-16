@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [How to Receive Feedback Gracefully in English](https://www.youtube.com/results?search_query=how+to+receive+feedback+gracefully+english+professional) | Nhận feedback đúng cách |
 | 2 | [Brian — Any Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing |
+| 🍿 | [Modern Family — English Clips](https://www.youtube.com/results?search_query=modern+family+learn+english+clip) | Buổi tối — casual family English |
 
 > **Cách dùng:** Hôm nay học cách NHẬN feedback — skill quan trọng không kém cho QC Manager.
 

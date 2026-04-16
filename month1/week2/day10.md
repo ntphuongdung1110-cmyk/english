@@ -10,6 +10,7 @@
 |---|---|---|
 | 1 | [Talking About Future Plans in English](https://www.youtube.com/results?search_query=talking+about+future+plans+english+naturally) | Grammar + phrases tương lai |
 | 2 | [Brian — Any New Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing chính |
+| 🍿 | [Modern Family — English Clips](https://www.youtube.com/results?search_query=modern+family+learn+english+clip) | Buổi tối — casual family English |
 
 > **Cách dùng:** #1 học structure. #2 shadowing — chú ý cách Brian nói về future plans/goals.
 

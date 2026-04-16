@@ -10,6 +10,8 @@
 |---|---|---|
 | 1 | [Brian — Life / Stress / Wellbeing Video](https://www.youtube.com/@ImBrian1287/videos) | Shadowing — chủ đề life balance |
 | 2 | [Huberman Lab — Sleep & Stress](https://www.youtube.com/results?search_query=huberman+lab+stress+wellbeing+english) | Native English về wellbeing |
+| ⭐ | [Amy Cuddy — "Your Body Language May Shape Who You Are" (TED)](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) | TED direct — confidence + presence |
+| 🍿 | [Friends — English Clips](https://www.youtube.com/results?search_query=friends+english+learn+subtitles+clip) | Buổi tối — casual English + cười |
 
 > **Cách dùng:** #1 chọn video Brian về cuộc sống/stress. #2 là bonus — nghe người native nói về chủ đề bạn đang học.
 

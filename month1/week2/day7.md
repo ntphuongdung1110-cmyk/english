@@ -10,6 +10,8 @@
 |---|---|---|
 | 1 | [How to Tell a Story in English](https://www.youtube.com/results?search_query=how+to+tell+a+story+in+english+naturally+native) | Học storytelling techniques |
 | 2 | [Brian — Story / Personal Experience](https://www.youtube.com/results?search_query=ImBrian1287+story+experience) | Shadowing — kể chuyện như native |
+| ⭐ | [Simon Sinek — "Why Good Leaders Make You Feel Safe" (TED)](https://www.youtube.com/watch?v=lmyZMtPVodo) | TED direct — leadership English |
+| 🍿 | [The Office — Funny Clips](https://www.youtube.com/results?search_query=the+office+english+learn+funny+clip) | Buổi tối — workplace humor + filler words |
 
 > **Cách dùng:** #1 để học structure. #2 để shadowing cách kể chuyện tự nhiên.
 
