@@ -2,37 +2,37 @@
 
 ## Từ vựng cốt lõi
 
-| Câu | Nghĩa |
-|---|---|
-| In simple terms... | Nói đơn giản... |
-| Think of it like... | Hãy nghĩ nó như... |
-| The way it works is... | Cách hoạt động là... |
-| Basically... / Essentially... | Về cơ bản... |
-| The short version is... | Nói ngắn gọn là... |
-| Without getting too technical... | Không cần đi sâu kỹ thuật... |
-| Does that make sense so far? | Đến đây có rõ không? |
-| Let me use an analogy | Để tôi dùng một ví dụ tương tự |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| In simple terms... | /ɪn ˈsɪmpəl tɜːrmz/ | Nói đơn giản... |
+| Think of it like... | /θɪŋk əv ɪt laɪk/ | Hãy nghĩ nó như... |
+| The way it works is... | /ðə weɪ ɪt wɜːrks ɪz/ | Cách hoạt động là... |
+| Basically... / Essentially... | /ˈbeɪsɪkli / ɪˈsɛnʃəli/ | Về cơ bản... |
+| The short version is... | /ðə ʃɔːrt ˈvɜːrʒən ɪz/ | Nói ngắn gọn là... |
+| Without getting too technical... | /wɪˈðaʊt ˈɡɛtɪŋ tuː ˈtɛknɪkəl/ | Không cần đi sâu kỹ thuật... |
+| Does that make sense so far? | /dʌz ðæt meɪk sɛns soʊ fɑːr/ | Đến đây có rõ không? |
+| Let me use an analogy | /lɛt miː juːz ən əˈnælədʒi/ | Để tôi dùng một ví dụ tương tự |
 
 ## Khi bị hỏi về bug / lỗi
 
-| Câu | Nghĩa |
-|---|---|
-| The system behaved unexpectedly | Hệ thống hoạt động không như mong đợi |
-| It's doing X when it should do Y | Nó đang làm X thay vì phải làm Y |
-| This only happens when... | Điều này chỉ xảy ra khi... |
-| We've identified the root cause | Chúng tôi đã xác định nguyên nhân gốc |
-| The fix is in progress | Đang trong quá trình sửa |
-| This is a known issue — we're tracking it | Đây là lỗi đã biết — chúng tôi đang theo dõi |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| The system behaved unexpectedly | /ðə ˈsɪstəm bɪˈheɪvd ˌʌnɪkˈspɛktɪdli/ | Hệ thống hoạt động không như mong đợi |
+| It's doing X when it should do Y | /ɪts ˈduːɪŋ X wɛn ɪt ʃʊd duː Y/ | Nó đang làm X thay vì phải làm Y |
+| This only happens when... | /ðɪs ˈoʊnli ˈhæpənz wɛn/ | Điều này chỉ xảy ra khi... |
+| We've identified the root cause | /wiːv aɪˈdɛntɪfaɪd ðə ruːt kɔːz/ | Chúng tôi đã xác định nguyên nhân gốc |
+| The fix is in progress | /ðə fɪks ɪz ɪn ˈprɒɡrɛs/ | Đang trong quá trình sửa |
+| This is a known issue — we're tracking it | /ðɪs ɪz ə noʊn ˈɪʃuː — wiːr ˈtræktɪŋ ɪt/ | Đây là lỗi đã biết — chúng tôi đang theo dõi |
 
 ## Khi giải thích QC / Testing
 
-| Câu | Nghĩa |
-|---|---|
-| Testing ensures the product works as expected | Testing đảm bảo sản phẩm hoạt động đúng |
-| We test before release to catch issues early | Chúng tôi test trước khi ra mắt để phát hiện lỗi sớm |
-| A bug is when something doesn't work as designed | Bug là khi thứ gì đó không hoạt động như thiết kế |
-| Regression means making sure old features still work | Regression là đảm bảo tính năng cũ vẫn hoạt động |
-| Automation runs tests automatically, like a robot | Automation chạy test tự động, như một robot |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| Testing ensures the product works as expected | /ˈtɛstɪŋ ɪnˈʃʊrz ðə ˈprɒdʌkt wɜːrks æz ɪkˈspɛktɪd/ | Testing đảm bảo sản phẩm hoạt động đúng |
+| We test before release to catch issues early | /wiː tɛst bɪˈfɔːr rɪˈliːs tuː kætʃ ˈɪʃuːz ˈɜːrli/ | Chúng tôi test trước khi ra mắt để phát hiện lỗi sớm |
+| A bug is when something doesn't work as designed | /ə bʌɡ ɪz wɛn ˈsʌmθɪŋ dʌzənt wɜːrk æz dɪˈzaɪnd/ | Bug là khi thứ gì đó không hoạt động như thiết kế |
+| Regression means making sure old features still work | /rɪˈɡrɛʃən miːnz ˈmeɪkɪŋ ʃʊr oʊld ˈfiːtʃərz stɪl wɜːrk/ | Regression là đảm bảo tính năng cũ vẫn hoạt động |
+| Automation runs tests automatically, like a robot | /ˌɔːtəˈmeɪʃən rʌnz tɛsts ˌɔːtəˈmætɪkli laɪk ə ˈroʊbɒt/ | Automation chạy test tự động, như một robot |
 
 ---
 

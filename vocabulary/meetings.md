@@ -2,64 +2,64 @@
 
 ## Mở đầu cuộc họp
 
-| Câu | Nghĩa |
-|---|---|
-| Let's get started | Bắt đầu thôi |
-| Shall we kick things off? | Mình bắt đầu nhé? |
-| Let me share my screen | Để tôi chia sẻ màn hình |
-| Can everyone hear me okay? | Mọi người nghe rõ không? |
-| Let's wait a couple more minutes | Đợi thêm vài phút nữa |
-| We have [X] on the agenda today | Hôm nay có [X] nội dung |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| Let's get started | /lɛts ɡɛt ˈstɑːrtɪd/ | Bắt đầu thôi |
+| Shall we kick things off? | /ʃæl wiː kɪk θɪŋz ɒf/ | Mình bắt đầu nhé? |
+| Let me share my screen | /lɛt miː ʃɛr maɪ skriːn/ | Để tôi chia sẻ màn hình |
+| Can everyone hear me okay? | /kæn ˈɛvriwʌn hɪr miː oʊˈkeɪ/ | Mọi người nghe rõ không? |
+| Let's wait a couple more minutes | /lɛts weɪt ə ˈkʌpəl mɔːr ˈmɪnɪts/ | Đợi thêm vài phút nữa |
+| We have [X] on the agenda today | /wiː hæv [X] ɒn ðə əˈdʒɛndə təˈdeɪ/ | Hôm nay có [X] nội dung |
 
 ## Đưa ra ý kiến
 
-| Câu | Nghĩa |
-|---|---|
-| I think we should... | Tôi nghĩ chúng ta nên... |
-| My take on this is... | Quan điểm của tôi là... |
-| One thing I'd suggest is... | Một điều tôi đề xuất là... |
-| Just to add to that... | Thêm vào điều đó... |
-| Building on what [name] said... | Tiếp theo ý của [tên]... |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| I think we should... | /aɪ θɪŋk wiː ʃʊd/ | Tôi nghĩ chúng ta nên... |
+| My take on this is... | /maɪ teɪk ɒn ðɪs ɪz/ | Quan điểm của tôi là... |
+| One thing I'd suggest is... | /wʌn θɪŋ aɪd səˈdʒɛst ɪz/ | Một điều tôi đề xuất là... |
+| Just to add to that... | /dʒʌst tuː æd tuː ðæt/ | Thêm vào điều đó... |
+| Building on what [name] said... | /ˈbɪldɪŋ ɒn wɒt [neɪm] sɛd/ | Tiếp theo ý của [tên]... |
 
 ## Phản biện lịch sự
 
-| Câu | Nghĩa |
-|---|---|
-| I see your point, but... | Tôi hiểu ý bạn, nhưng... |
-| That's a fair point, however... | Đúng vậy, tuy nhiên... |
-| I'm not sure I agree with that | Tôi không chắc đồng ý |
-| Have we considered...? | Mình đã xem xét... chưa? |
-| What if we looked at it differently? | Nếu nhìn theo hướng khác thì sao? |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| I see your point, but... | /aɪ siː jɔːr pɔɪnt bʌt/ | Tôi hiểu ý bạn, nhưng... |
+| That's a fair point, however... | /ðæts ə fɛr pɔɪnt haʊˈɛvər/ | Đúng vậy, tuy nhiên... |
+| I'm not sure I agree with that | /aɪm nɒt ʃʊr aɪ əˈɡriː wɪð ðæt/ | Tôi không chắc đồng ý |
+| Have we considered...? | /hæv wiː kənˈsɪdərd/ | Mình đã xem xét... chưa? |
+| What if we looked at it differently? | /wɒt ɪf wiː lʊkt æt ɪt ˈdɪfrəntli/ | Nếu nhìn theo hướng khác thì sao? |
 
 ## Hỏi làm rõ
 
-| Câu | Nghĩa |
-|---|---|
-| Could you elaborate on that? | Bạn có thể nói thêm không? |
-| What do you mean by...? | Ý bạn là gì khi nói...? |
-| Just to clarify... | Để làm rõ... |
-| Can you give an example? | Bạn có thể cho ví dụ không? |
-| Sorry, I missed that — could you repeat? | Xin lỗi, tôi không nghe rõ |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| Could you elaborate on that? | /kʊd juː ɪˈlæbəreɪt ɒn ðæt/ | Bạn có thể nói thêm không? |
+| What do you mean by...? | /wɒt duː juː miːn baɪ/ | Ý bạn là gì khi nói...? |
+| Just to clarify... | /dʒʌst tuː ˈklærɪfaɪ/ | Để làm rõ... |
+| Can you give an example? | /kæn juː ɡɪv ən ɪɡˈzɑːmpəl/ | Bạn có thể cho ví dụ không? |
+| Sorry, I missed that — could you repeat? | /ˈsɒri aɪ mɪst ðæt — kʊd juː rɪˈpiːt/ | Xin lỗi, tôi không nghe rõ |
 
 ## Tóm tắt & Action items
 
-| Câu | Nghĩa |
-|---|---|
-| So to summarize... | Vậy tóm lại... |
-| The next step is... | Bước tiếp theo là... |
-| Who's taking ownership of this? | Ai chịu trách nhiệm phần này? |
-| Let's set a deadline for... | Mình đặt deadline cho... |
-| I'll follow up on... | Tôi sẽ theo dõi phần... |
-| Let's circle back on this next week | Tuần sau bàn lại vấn đề này |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| So to summarize... | /soʊ tuː ˈsʌməraɪz/ | Vậy tóm lại... |
+| The next step is... | /ðə nɛkst stɛp ɪz/ | Bước tiếp theo là... |
+| Who's taking ownership of this? | /huːz ˈteɪkɪŋ ˈoʊnərʃɪp əv ðɪs/ | Ai chịu trách nhiệm phần này? |
+| Let's set a deadline for... | /lɛts sɛt ə ˈdɛdlaɪn fɔːr/ | Mình đặt deadline cho... |
+| I'll follow up on... | /aɪl ˈfɒloʊ ʌp ɒn/ | Tôi sẽ theo dõi phần... |
+| Let's circle back on this next week | /lɛts ˈsɜːrkəl bæk ɒn ðɪs nɛkst wiːk/ | Tuần sau bàn lại vấn đề này |
 
 ## Kết thúc họp
 
-| Câu | Nghĩa |
-|---|---|
-| Any final questions? | Còn câu hỏi gì không? |
-| I'll send out the meeting notes | Tôi sẽ gửi notes họp |
-| Thanks everyone for your time | Cảm ơn mọi người |
-| Let's wrap up here | Kết thúc ở đây nhé |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| Any final questions? | /ˈɛni ˈfaɪnəl ˈkwɛstʃənz/ | Còn câu hỏi gì không? |
+| I'll send out the meeting notes | /aɪl sɛnd aʊt ðə ˈmiːtɪŋ noʊts/ | Tôi sẽ gửi notes họp |
+| Thanks everyone for your time | /θæŋks ˈɛvriwʌn fɔːr jɔːr taɪm/ | Cảm ơn mọi người |
+| Let's wrap up here | /lɛts ræp ʌp hɪr/ | Kết thúc ở đây nhé |
 
 ---
 

@@ -2,48 +2,48 @@
 
 ## Cho feedback
 
-| Câu | Nghĩa |
-|---|---|
-| Great work on... | Làm tốt lắm về... |
-| One thing I'd improve is... | Một điều tôi muốn cải thiện là... |
-| This part could be stronger | Phần này có thể tốt hơn |
-| Have you thought about...? | Bạn có nghĩ đến... chưa? |
-| I'd suggest... instead | Tôi gợi ý... thay vì vậy |
-| The overall direction is good, but... | Hướng tổng thể ổn, nhưng... |
-| This is a blocker — we need to fix it | Đây là blocker — cần sửa |
-| Nice catch! | Phát hiện tốt! |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| Great work on... | /ɡreɪt wɜːrk ɒn/ | Làm tốt lắm về... |
+| One thing I'd improve is... | /wʌn θɪŋ aɪd ɪmˈpruːv ɪz/ | Một điều tôi muốn cải thiện là... |
+| This part could be stronger | /ðɪs pɑːrt kʊd biː ˈstrɒŋɡər/ | Phần này có thể tốt hơn |
+| Have you thought about...? | /hæv juː θɔːt əˈbaʊt/ | Bạn có nghĩ đến... chưa? |
+| I'd suggest... instead | /aɪd səˈdʒɛst ɪnˈstɛd/ | Tôi gợi ý... thay vì vậy |
+| The overall direction is good, but... | /ðə ˈoʊvərɔːl dɪˈrɛkʃən ɪz ɡʊd bʌt/ | Hướng tổng thể ổn, nhưng... |
+| This is a blocker — we need to fix it | /ðɪs ɪz ə ˈblɒkər — wiː niːd tuː fɪks ɪt/ | Đây là blocker — cần sửa |
+| Nice catch! | /naɪs kætʃ/ | Phát hiện tốt! |
 
 ## Nhận feedback
 
-| Câu | Nghĩa |
-|---|---|
-| Thanks for the feedback | Cảm ơn phản hồi |
-| That's a fair point | Đúng vậy, hợp lý |
-| I'll take that on board | Tôi sẽ ghi nhận điều đó |
-| Could you give me an example? | Bạn có thể cho ví dụ không? |
-| I'll look into that | Tôi sẽ xem lại |
-| I wasn't aware of that — good to know | Tôi chưa biết — cảm ơn đã chỉ ra |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| Thanks for the feedback | /θæŋks fɔːr ðə ˈfiːdbæk/ | Cảm ơn phản hồi |
+| That's a fair point | /ðæts ə fɛr pɔɪnt/ | Đúng vậy, hợp lý |
+| I'll take that on board | /aɪl teɪk ðæt ɒn bɔːrd/ | Tôi sẽ ghi nhận điều đó |
+| Could you give me an example? | /kʊd juː ɡɪv miː ən ɪɡˈzɑːmpəl/ | Bạn có thể cho ví dụ không? |
+| I'll look into that | /aɪl lʊk ˈɪntuː ðæt/ | Tôi sẽ xem lại |
+| I wasn't aware of that — good to know | /aɪ ˈwɒzənt əˈwɛr əv ðæt — ɡʊd tuː noʊ/ | Tôi chưa biết — cảm ơn đã chỉ ra |
 
 ## Escalate vấn đề
 
-| Câu | Nghĩa |
-|---|---|
-| I wanted to flag this early | Tôi muốn báo sớm vấn đề này |
-| This is a risk we should address | Đây là rủi ro cần xử lý |
-| I'm concerned about... | Tôi lo ngại về... |
-| We might need to escalate this | Có thể cần leo thang vấn đề này |
-| Just looping you in on this issue | Kéo bạn vào để biết vấn đề này |
-| This is blocking us from moving forward | Điều này đang chặn tiến độ của chúng tôi |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| I wanted to flag this early | /aɪ ˈwɒntɪd tuː flæɡ ðɪs ˈɜːrli/ | Tôi muốn báo sớm vấn đề này |
+| This is a risk we should address | /ðɪs ɪz ə rɪsk wiː ʃʊd əˈdrɛs/ | Đây là rủi ro cần xử lý |
+| I'm concerned about... | /aɪm kənˈsɜːrnd əˈbaʊt/ | Tôi lo ngại về... |
+| We might need to escalate this | /wiː maɪt niːd tuː ˈɛskəleɪt ðɪs/ | Có thể cần leo thang vấn đề này |
+| Just looping you in on this issue | /dʒʌst ˈluːpɪŋ juː ɪn ɒn ðɪs ˈɪʃuː/ | Kéo bạn vào để biết vấn đề này |
+| This is blocking us from moving forward | /ðɪs ɪz ˈblɒkɪŋ ʌs frɒm ˈmuːvɪŋ ˈfɔːrwərd/ | Điều này đang chặn tiến độ của chúng tôi |
 
 ## Nói "không" lịch sự
 
-| Câu | Nghĩa |
-|---|---|
-| I don't think that's feasible right now | Tôi không nghĩ khả thi lúc này |
-| That's out of scope for this sprint | Ngoài scope sprint này rồi |
-| We'd need more time for that | Cần thêm thời gian cho điều đó |
-| Can we revisit this next quarter? | Xem lại vào quý sau được không? |
-| I hear you, but my concern is... | Tôi hiểu, nhưng lo ngại của tôi là... |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| I don't think that's feasible right now | /aɪ doʊnt θɪŋk ðæts ˈfiːzɪbəl raɪt naʊ/ | Tôi không nghĩ khả thi lúc này |
+| That's out of scope for this sprint | /ðæts aʊt əv skoʊp fɔːr ðɪs sprɪnt/ | Ngoài scope sprint này rồi |
+| We'd need more time for that | /wiːd niːd mɔːr taɪm fɔːr ðæt/ | Cần thêm thời gian cho điều đó |
+| Can we revisit this next quarter? | /kæn wiː rɪˈvɪzɪt ðɪs nɛkst ˈkwɔːrtər/ | Xem lại vào quý sau được không? |
+| I hear you, but my concern is... | /aɪ hɪr juː bʌt maɪ kənˈsɜːrn ɪz/ | Tôi hiểu, nhưng lo ngại của tôi là... |
 
 ---
 

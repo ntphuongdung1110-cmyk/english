@@ -2,46 +2,46 @@
 
 ## Đề xuất ý tưởng với sếp
 
-| Câu | Nghĩa |
-|---|---|
-| I'd like to propose... | Tôi muốn đề xuất... |
-| What if we tried...? | Nếu chúng ta thử... thì sao? |
-| I think this could help us... | Tôi nghĩ điều này có thể giúp... |
-| The benefit of this approach is... | Lợi ích của cách này là... |
-| I've seen this work well in... | Tôi đã thấy điều này hiệu quả ở... |
-| Would you be open to...? | Bạn có sẵn lòng xem xét... không? |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| I'd like to propose... | /aɪd laɪk tuː prəˈpoʊz/ | Tôi muốn đề xuất... |
+| What if we tried...? | /wɒt ɪf wiː traɪd/ | Nếu chúng ta thử... thì sao? |
+| I think this could help us... | /aɪ θɪŋk ðɪs kʊd hɛlp ʌs/ | Tôi nghĩ điều này có thể giúp... |
+| The benefit of this approach is... | /ðə ˈbɛnɪfɪt əv ðɪs əˈproʊtʃ ɪz/ | Lợi ích của cách này là... |
+| I've seen this work well in... | /aɪv siːn ðɪs wɜːrk wɛl ɪn/ | Tôi đã thấy điều này hiệu quả ở... |
+| Would you be open to...? | /wʊd juː biː ˈoʊpən tuː/ | Bạn có sẵn lòng xem xét... không? |
 
 ## Thương lượng scope / deadline
 
-| Câu | Nghĩa |
-|---|---|
-| Can we prioritize...? | Chúng ta có thể ưu tiên... không? |
-| If we cut X, we can deliver Y on time | Nếu bỏ X, chúng ta có thể giao Y đúng hạn |
-| What's the minimum viable version? | Phiên bản tối thiểu khả thi là gì? |
-| Can we phase this out? | Mình có thể chia giai đoạn không? |
-| I want to be transparent about the risk | Tôi muốn minh bạch về rủi ro |
-| We can do X, but we'll need to push Y | Chúng ta có thể làm X, nhưng Y sẽ bị trễ |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| Can we prioritize...? | /kæn wiː praɪˈɒrɪtaɪz/ | Chúng ta có thể ưu tiên... không? |
+| If we cut X, we can deliver Y on time | /ɪf wiː kʌt X wiː kæn dɪˈlɪvər Y ɒn taɪm/ | Nếu bỏ X, chúng ta có thể giao Y đúng hạn |
+| What's the minimum viable version? | /wɒts ðə ˈmɪnɪməm ˈvaɪəbəl ˈvɜːrʒən/ | Phiên bản tối thiểu khả thi là gì? |
+| Can we phase this out? | /kæn wiː feɪz ðɪs aʊt/ | Mình có thể chia giai đoạn không? |
+| I want to be transparent about the risk | /aɪ wɒnt tuː biː trænsˈpærənt əˈbaʊt ðə rɪsk/ | Tôi muốn minh bạch về rủi ro |
+| We can do X, but we'll need to push Y | /wiː kæn duː X bʌt wiːl niːd tuː pʊʃ Y/ | Chúng ta có thể làm X, nhưng Y sẽ bị trễ |
 
 ## Xin tăng lương / thăng chức
 
-| Câu | Nghĩa |
-|---|---|
-| I'd like to discuss my compensation | Tôi muốn thảo luận về lương |
-| Based on my contributions, I believe... | Dựa trên đóng góp của tôi, tôi tin... |
-| I've taken on additional responsibilities | Tôi đã đảm nhận thêm trách nhiệm |
-| I'd like to understand the path forward | Tôi muốn hiểu lộ trình phát triển |
-| What would it take to get to the next level? | Cần gì để lên level tiếp theo? |
-| I'm looking for a salary in the range of... | Tôi mong mức lương trong khoảng... |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| I'd like to discuss my compensation | /aɪd laɪk tuː dɪˈskʌs maɪ ˌkɒmpənˈseɪʃən/ | Tôi muốn thảo luận về lương |
+| Based on my contributions, I believe... | /beɪst ɒn maɪ ˌkɒntrɪˈbjuːʃənz aɪ bɪˈliːv/ | Dựa trên đóng góp của tôi, tôi tin... |
+| I've taken on additional responsibilities | /aɪv ˈteɪkən ɒn əˈdɪʃənəl rɪˌspɒnsɪˈbɪlɪtɪz/ | Tôi đã đảm nhận thêm trách nhiệm |
+| I'd like to understand the path forward | /aɪd laɪk tuː ˌʌndəˈstænd ðə pɑːθ ˈfɔːrwərd/ | Tôi muốn hiểu lộ trình phát triển |
+| What would it take to get to the next level? | /wɒt wʊd ɪt teɪk tuː ɡɛt tuː ðə nɛkst ˈlɛvəl/ | Cần gì để lên level tiếp theo? |
+| I'm looking for a salary in the range of... | /aɪm ˈlʊkɪŋ fɔːr ə ˈsæləri ɪn ðə reɪndʒ əv/ | Tôi mong mức lương trong khoảng... |
 
 ## Nói "không" lịch sự — Nâng cao
 
-| Câu | Nghĩa |
-|---|---|
-| I want to help, but I'm at capacity | Tôi muốn giúp, nhưng tôi đã hết bandwidth |
-| That's not something I can commit to right now | Tôi không thể cam kết điều đó lúc này |
-| If we add this, something else needs to come off | Nếu thêm điều này, cần bỏ bớt thứ khác |
-| Let me get back to you on that | Để tôi phản hồi bạn sau |
-| I'd need more time / resources to do that properly | Cần thêm thời gian/nguồn lực để làm đúng |
+| Câu | Phiên âm | Nghĩa |
+|---|---|---|
+| I want to help, but I'm at capacity | /aɪ wɒnt tuː hɛlp bʌt aɪm æt kəˈpæsɪti/ | Tôi muốn giúp, nhưng tôi đã hết bandwidth |
+| That's not something I can commit to right now | /ðæts nɒt ˈsʌmθɪŋ aɪ kæn kəˈmɪt tuː raɪt naʊ/ | Tôi không thể cam kết điều đó lúc này |
+| If we add this, something else needs to come off | /ɪf wiː æd ðɪs ˈsʌmθɪŋ ɛls niːdz tuː kʌm ɒf/ | Nếu thêm điều này, cần bỏ bớt thứ khác |
+| Let me get back to you on that | /lɛt miː ɡɛt bæk tuː juː ɒn ðæt/ | Để tôi phản hồi bạn sau |
+| I'd need more time / resources to do that properly | /aɪd niːd mɔːr taɪm ˈriːsɔːrsɪz tuː duː ðæt ˈprɒpərli/ | Cần thêm thời gian/nguồn lực để làm đúng |
 
 ---
 
