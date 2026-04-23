@@ -19,16 +19,16 @@
 
 ## 📚 Từ Vựng — Q&A Language
 
-| Tình Huống | Câu Nói |
-|---|---|
-| Câu hỏi dễ | "Great question. [Direct answer]." |
-| Câu hỏi phức tạp | "That's a nuanced question. Let me think through it." |
-| Không biết câu trả lời | "I don't have that data on hand — let me get back to you by EOD." |
-| Câu hỏi ngoài phạm vi | "That's a bit outside the scope of today's presentation — happy to discuss after." |
-| Câu hỏi aggressive | "I understand the concern. Let me address that directly." |
-| Cần clarify câu hỏi | "Just to make sure I understand — are you asking about [X] or [Y]?" |
-| Câu hỏi đã trả lời rồi | "I actually touched on this earlier — [brief recap]. Does that help?" |
-| Kết thúc Q&A | "We're at time — but I'm happy to continue the conversation after." |
+| Tình Huống | Phiên âm từ khóa | Câu Nói |
+|---|---|---|
+| Câu hỏi dễ | /ɡreɪt ˈkwɛstʃən/ | "Great question. [Direct answer]." |
+| Câu hỏi phức tạp | /ˈnjuːɑːnst ˈkwɛstʃən — lɛt miː θɪŋk θruː ɪt/ | "That's a nuanced question. Let me think through it." |
+| Không biết câu trả lời | /aɪ doʊnt hæv ðæt ˈdeɪtə ɒn hænd/ | "I don't have that data on hand — let me get back to you by EOD." |
+| Câu hỏi ngoài phạm vi | /ˈaʊtsaɪd ðə skoʊp əv təˈdeɪz ˌprɛzənˈteɪʃən/ | "That's a bit outside the scope of today's presentation — happy to discuss after." |
+| Câu hỏi aggressive | /aɪ ˌʌndəˈstænd ðə kənˈsɜːrn — lɛt miː əˈdrɛs ðæt dɪˈrɛktli/ | "I understand the concern. Let me address that directly." |
+| Cần clarify câu hỏi | /dʒʌst tuː meɪk ʃʊr aɪ ˌʌndəˈstænd/ | "Just to make sure I understand — are you asking about [X] or [Y]?" |
+| Câu hỏi đã trả lời rồi | /aɪ ˈæktʃuəli tʌtʃt ɒn ðɪs ˈɜːrliər/ | "I actually touched on this earlier — [brief recap]. Does that help?" |
+| Kết thúc Q&A | /aɪm ˈhæpi tuː kənˈtɪnjuː ðə ˌkɒnvərˈseɪʃən ˈɑːftər/ | "We're at time — but I'm happy to continue the conversation after." |
 
 ---
 

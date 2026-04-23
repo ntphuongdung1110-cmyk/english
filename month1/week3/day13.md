@@ -32,18 +32,18 @@
 
 ## 📚 Từ Vựng Hôm Nay — Meeting Management
 
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **set the agenda** | đặt chương trình | I'll send the agenda before the meeting. |
-| **action item** | việc cần làm sau meeting | Let's capture that as an action item. |
-| **parking lot** | vấn đề gác lại cho sau | Good point — let's park that for now. |
-| **time-box** | giới hạn thời gian 1 mục | I'm going to time-box this to 10 minutes. |
-| **facilitate** | dẫn dắt | I'll be facilitating today's session. |
-| **take the floor** | được quyền nói | I'd like to take the floor on this. |
-| **open the floor** | mời mọi người đóng góp ý kiến | Let me open the floor for questions. |
-| **table a discussion** | tạm gác vấn đề | Can we table that for the next meeting? |
-| **recap** | tóm tắt lại | Let me quickly recap what we've covered. |
-| **next steps** | các bước tiếp theo | Let's align on next steps before we close. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **set the agenda** | /set ði əˈdʒendə/ | đặt chương trình | I'll send the agenda before the meeting. |
+| **action item** | /ˈækʃən ˈaɪtəm/ | việc cần làm sau meeting | Let's capture that as an action item. |
+| **parking lot** | /ˈpɑːrkɪŋ lɒt/ | vấn đề gác lại cho sau | Good point — let's park that for now. |
+| **time-box** | /taɪm bɒks/ | giới hạn thời gian 1 mục | I'm going to time-box this to 10 minutes. |
+| **facilitate** | /fəˈsɪlɪteɪt/ | dẫn dắt | I'll be facilitating today's session. |
+| **take the floor** | /teɪk ðə flɔːr/ | được quyền nói | I'd like to take the floor on this. |
+| **open the floor** | /ˈoʊpən ðə flɔːr/ | mời mọi người đóng góp ý kiến | Let me open the floor for questions. |
+| **table a discussion** | /ˈteɪbəl ə dɪˈskʌʃən/ | tạm gác vấn đề | Can we table that for the next meeting? |
+| **recap** | /ˈriːkæp/ | tóm tắt lại | Let me quickly recap what we've covered. |
+| **next steps** | /nekst steps/ | các bước tiếp theo | Let's align on next steps before we close. |
 
 ---
 

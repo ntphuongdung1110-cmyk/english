@@ -32,18 +32,18 @@
 
 ## 📚 Từ Vựng Hôm Nay
 
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **have a candid conversation** | nói chuyện thẳng thắn | I'd like to have a candid conversation about this. |
-| **address the elephant in the room** | nói về vấn đề ai cũng biết nhưng né | Let's address the elephant in the room. |
-| **I take responsibility** | tôi chịu trách nhiệm | I take responsibility for missing that deadline. |
-| **I'm not trying to point fingers** | không muốn đổ lỗi ai | I'm not trying to point fingers — I just want to understand. |
-| **this isn't working for me** | tình trạng này không ổn với tôi | Honestly, this current process isn't working for me. |
-| **I need to be direct** | cần nói thẳng | I need to be direct about something. |
-| **moving forward** | từ đây về sau | How can we make sure this doesn't happen moving forward? |
-| **acknowledge** | thừa nhận | I want to acknowledge that this has been frustrating. |
-| **find a middle ground** | tìm điểm chung | I think we can find a middle ground here. |
-| **unacceptable** | không thể chấp nhận | Releasing with known critical bugs is unacceptable. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **have a candid conversation** | /hæv ə ˈkændɪd ˌkɒnvəˈseɪʃən/ | nói chuyện thẳng thắn | I'd like to have a candid conversation about this. |
+| **address the elephant in the room** | /əˈdres ði ˈelɪfənt ɪn ðə ruːm/ | nói về vấn đề ai cũng biết nhưng né | Let's address the elephant in the room. |
+| **I take responsibility** | /aɪ teɪk rɪˌspɒnsɪˈbɪlɪti/ | tôi chịu trách nhiệm | I take responsibility for missing that deadline. |
+| **I'm not trying to point fingers** | /aɪm nɒt ˈtraɪɪŋ tə pɔɪnt ˈfɪŋɡərz/ | không muốn đổ lỗi ai | I'm not trying to point fingers — I just want to understand. |
+| **this isn't working for me** | /ðɪs ˈɪzənt ˈwɜːrkɪŋ fər miː/ | tình trạng này không ổn với tôi | Honestly, this current process isn't working for me. |
+| **I need to be direct** | /aɪ niːd tə biː dɪˈrekt/ | cần nói thẳng | I need to be direct about something. |
+| **moving forward** | /ˈmuːvɪŋ ˈfɔːrwərd/ | từ đây về sau | How can we make sure this doesn't happen moving forward? |
+| **acknowledge** | /əkˈnɒlɪdʒ/ | thừa nhận | I want to acknowledge that this has been frustrating. |
+| **find a middle ground** | /faɪnd ə ˈmɪdəl ɡraʊnd/ | tìm điểm chung | I think we can find a middle ground here. |
+| **unacceptable** | /ˌʌnəkˈseptəbəl/ | không thể chấp nhận | Releasing with known critical bugs is unacceptable. |
 
 ---
 

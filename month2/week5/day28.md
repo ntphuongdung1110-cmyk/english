@@ -18,16 +18,16 @@
 
 ## 📚 Từ Vựng Hôm Nay — Virtual Meeting Language
 
-| Tình Huống | Câu Nói Tự Nhiên |
-|---|---|
-| Bắt đầu khi có người chưa vào | "Let's give it another minute for others to join." |
-| Confirm nghe rõ | "Can everyone hear me okay?" / "Audio good?" |
-| Bị lag / technical issue | "Sorry — my connection cut out. Could you repeat that?" |
-| Mute nhầm | "Oh sorry — I was on mute. What I was saying was..." |
-| Hỏi ai đó lên tiếng | "I think [Name] was about to say something — go ahead." |
-| Chia sẻ màn hình | "Let me pull up the report — give me one second." |
-| Kết thúc call | "Thanks everyone — great session. I'll drop the notes in Slack." |
-| Kết nối kém | "I'm going to turn off my camera — connection issues. But I'm here." |
+| Tình Huống | Phiên âm từ khóa | Câu Nói Tự Nhiên |
+|---|---|---|
+| Bắt đầu khi có người chưa vào | /lɛts ɡɪv ɪt əˈnʌðər ˈmɪnɪt/ | "Let's give it another minute for others to join." |
+| Confirm nghe rõ | /kæn ˈɛvriwʌn hɪr miː oʊˈkeɪ/ | "Can everyone hear me okay?" / "Audio good?" |
+| Bị lag / technical issue | /maɪ kəˈnɛkʃən kʌt aʊt/ | "Sorry — my connection cut out. Could you repeat that?" |
+| Mute nhầm | /aɪ wɒz ɒn mjuːt/ | "Oh sorry — I was on mute. What I was saying was..." |
+| Hỏi ai đó lên tiếng | /wɒz əˈbaʊt tuː seɪ ˈsʌmθɪŋ/ | "I think [Name] was about to say something — go ahead." |
+| Chia sẻ màn hình | /lɛt miː pʊl ʌp ðə rɪˈpɔːrt/ | "Let me pull up the report — give me one second." |
+| Kết thúc call | /aɪl drɒp ðə noʊts ɪn slæk/ | "Thanks everyone — great session. I'll drop the notes in Slack." |
+| Kết nối kém | /ˈtɜːrn ɒf maɪ ˈkæmərə/ | "I'm going to turn off my camera — connection issues. But I'm here." |
 
 ---
 

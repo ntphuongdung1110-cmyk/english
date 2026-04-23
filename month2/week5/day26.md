@@ -32,38 +32,42 @@
 ## 📚 Từ Vựng Hôm Nay — Facilitation Language
 
 ### Mời Tham Gia
-```
-"I'd love to hear [name]'s perspective on this."
-"Does anyone have a different take?"
-"We haven't heard from [team/person] yet — any thoughts?"
-"I want to make sure all voices are heard."
-"[Name], what's your read on this?"
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **I'd love to hear [name]'s perspective on this.** | /aɪd lʌv tuː hɪr [neɪm]s pəˈspɛktɪv ɒn ðɪs/ | Tôi muốn nghe quan điểm của [tên] |
+| **Does anyone have a different take?** | /dʌz ˈɛniwʌn hæv ə ˈdɪfrənt teɪk/ | Ai có góc nhìn khác không? |
+| **We haven't heard from [team/person] yet — any thoughts?** | /wiː ˈhævənt hɜːrd frɒm [tɪm/ˈpɜːrsən] jɛt/ | Chưa nghe từ [team/người] — có ý kiến gì không? |
+| **I want to make sure all voices are heard.** | /aɪ wɒnt tuː meɪk ʃʊr ɔːl ˈvɔɪsɪz ɑːr hɜːrd/ | Tôi muốn đảm bảo mọi người đều được lắng nghe |
+| **[Name], what's your read on this?** | /[neɪm] wɒts jɔːr riːd ɒn ðɪs/ | [Tên], bạn nhận định thế nào? |
 
 ### Kéo Discussion Về Track
-```
-"That's a great point — let's park that and come back."
-"I want to make sure we stay on the main question."
-"Let's try to bring this back to [topic]."
-"We're running short on time — let's focus on [decision]."
-"Can we take that offline? I want to get to [next item]."
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **That's a great point — let's park that and come back.** | /lɛts pɑːrk ðæt ænd kʌm bæk/ | Điểm hay — để đó rồi quay lại sau |
+| **I want to make sure we stay on the main question.** | /aɪ wɒnt tuː meɪk ʃʊr wiː steɪ ɒn ðə meɪn ˈkwɛstʃən/ | Tôi muốn chúng ta giữ focus vào câu hỏi chính |
+| **Let's try to bring this back to [topic].** | /lɛts traɪ tuː brɪŋ ðɪs bæk tuː [ˈtɒpɪk]/ | Hãy thử quay lại chủ đề [X] |
+| **We're running short on time — let's focus on [decision].** | /wiːr ˈrʌnɪŋ ʃɔːrt ɒn taɪm — lɛts ˈfoʊkəs ɒn/ | Sắp hết giờ — tập trung vào [quyết định] |
+| **Can we take that offline? I want to get to [next item].** | /kæn wiː teɪk ðæt ˈɒflaɪn/ | Mình bàn riêng sau nhé? Tôi muốn chuyển sang mục tiếp |
 
 ### Tổng Hợp Ý Kiến
-```
-"So it sounds like there are two camps here: [view A] and [view B]."
-"Let me see if I can summarize the key points so far."
-"We seem to be aligned on [X], but there's still debate on [Y]."
-"I'm hearing [theme] as a common concern — is that right?"
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **So it sounds like there are two camps here: [A] and [B].** | /soʊ ɪt saʊndz laɪk ðɛr ɑːr tuː kæmps hɪr/ | Có vẻ có hai luồng ý kiến: [A] và [B] |
+| **Let me see if I can summarize the key points so far.** | /lɛt miː siː ɪf aɪ kæn ˈsʌməraɪz ðə kiː pɔɪnts soʊ fɑːr/ | Để tôi tóm tắt các điểm chính đến giờ |
+| **We seem to be aligned on [X], but there's still debate on [Y].** | /wiː siːm tuː biː əˈlaɪnd ɒn [X] bʌt ðɛrz stɪl dɪˈbeɪt ɒn [Y]/ | Chúng ta đồng thuận về [X], nhưng còn tranh luận về [Y] |
+| **I'm hearing [theme] as a common concern — is that right?** | /aɪm ˈhɪrɪŋ [θiːm] æz ə ˈkɒmən kənˈsɜːrn/ | Tôi nghe thấy [chủ đề] là lo ngại chung — có đúng không? |
 
 ### Dẫn Đến Quyết Định
-```
-"We need to make a call on this — let's do a quick show of hands."
-"Can we agree to [compromise] for now?"
-"Who has the final say on this one?"
-"Let's go with [option] — we can revisit if needed."
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **We need to make a call on this — let's do a quick show of hands.** | /wiː niːd tuː meɪk ə kɔːl ɒn ðɪs — ˈʃoʊ əv hændz/ | Cần ra quyết định — biểu quyết nhanh nào |
+| **Can we agree to [compromise] for now?** | /kæn wiː əˈɡriː tuː [ˈkɒmprəmaɪz] fɔːr naʊ/ | Chúng ta có thể đồng ý với [thỏa thuận] tạm thời không? |
+| **Who has the final say on this one?** | /huː hæz ðə ˈfaɪnəl seɪ ɒn ðɪs wʌn/ | Ai có quyền quyết định cuối cùng? |
+| **Let's go with [option] — we can revisit if needed.** | /lɛts ɡoʊ wɪð [ˈɒpʃən] — wiː kæn rɪˈvɪzɪt ɪf ˈniːdɪd/ | Chọn [phương án] — có thể xem lại sau nếu cần |
 
 ---
 

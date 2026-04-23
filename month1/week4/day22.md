@@ -31,18 +31,18 @@
 
 ## 📚 Từ Vựng Hôm Nay — Career & Growth
 
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **career trajectory** | hướng phát triển nghề nghiệp | I'm happy with my career trajectory so far. |
-| **skill set** | bộ kỹ năng | I'm working on expanding my skill set in automation. |
-| **up-skill** | nâng cao kỹ năng | I've been up-skilling in Python for test automation. |
-| **growth mindset** | tư duy phát triển | I try to approach challenges with a growth mindset. |
-| **stepping stone** | bước đệm | This role has been a great stepping stone. |
-| **long-term vision** | tầm nhìn dài hạn | My long-term vision is to lead a QA function at scale. |
-| **areas for improvement** | điểm cần cải thiện | I'm aware of my areas for improvement. |
-| **take ownership** | chủ động, tự chịu trách nhiệm | I take ownership of both successes and failures. |
-| **stretch goal** | mục tiêu tham vọng | Setting stretch goals keeps me motivated. |
-| **continuous learning** | học liên tục | I believe in continuous learning — in and out of work. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **career trajectory** | /kəˈrɪər trəˈdʒektəri/ | hướng phát triển nghề nghiệp | I'm happy with my career trajectory so far. |
+| **skill set** | /skɪl set/ | bộ kỹ năng | I'm working on expanding my skill set in automation. |
+| **up-skill** | /ʌp skɪl/ | nâng cao kỹ năng | I've been up-skilling in Python for test automation. |
+| **growth mindset** | /ɡroʊθ ˈmaɪndset/ | tư duy phát triển | I try to approach challenges with a growth mindset. |
+| **stepping stone** | /ˈstepɪŋ stoʊn/ | bước đệm | This role has been a great stepping stone. |
+| **long-term vision** | /lɒŋ tɜːrm ˈvɪʒən/ | tầm nhìn dài hạn | My long-term vision is to lead a QA function at scale. |
+| **areas for improvement** | /ˈeəriəz fər ɪmˈpruːvmənt/ | điểm cần cải thiện | I'm aware of my areas for improvement. |
+| **take ownership** | /teɪk ˈoʊnərʃɪp/ | chủ động, tự chịu trách nhiệm | I take ownership of both successes and failures. |
+| **stretch goal** | /stretʃ ɡoʊl/ | mục tiêu tham vọng | Setting stretch goals keeps me motivated. |
+| **continuous learning** | /kənˈtɪnjuəs ˈlɜːrnɪŋ/ | học liên tục | I believe in continuous learning — in and out of work. |
 
 ---
 

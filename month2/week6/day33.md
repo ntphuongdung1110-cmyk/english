@@ -18,15 +18,15 @@
 
 ## 📚 Từ Vựng Hôm Nay
 
-| Tình Huống | Câu Phản Hồi Tự Nhiên |
-|---|---|
-| Nhận positive feedback | "Thank you — I really appreciate you saying that." |
-| Nhận constructive feedback | "That's useful feedback — I'll think about how to improve." |
-| Khi đồng ý | "You're right — I should have flagged that earlier." |
-| Khi cần clarify trước khi phản hồi | "Could you give me a specific example? I want to make sure I understand." |
-| Khi không đồng ý nhưng lịch sự | "I appreciate the feedback. I see it a bit differently — can I share my perspective?" |
-| Khi cần thời gian | "Thank you for sharing this. Let me reflect on it and come back to you." |
-| Khi muốn hỏi gì cần làm khác | "What would you like to see me do differently going forward?" |
+| Tình Huống | Phiên âm từ khóa | Câu Phản Hồi Tự Nhiên |
+|---|---|---|
+| Nhận positive feedback | /aɪ ˈrɪəli əˈpriːʃɪeɪt juː ˈseɪɪŋ ðæt/ | "Thank you — I really appreciate you saying that." |
+| Nhận constructive feedback | /ˈjuːsfəl ˈfiːdbæk — aɪl ˈθɪŋk əˈbaʊt haʊ tuː ɪmˈpruːv/ | "That's useful feedback — I'll think about how to improve." |
+| Khi đồng ý | /jɔːr raɪt — aɪ ʃʊd həv flæɡd ðæt ˈɜːrliər/ | "You're right — I should have flagged that earlier." |
+| Khi cần clarify trước khi phản hồi | /kʊd juː ɡɪv miː ə spəˈsɪfɪk ɪɡˈzɑːmpəl/ | "Could you give me a specific example? I want to make sure I understand." |
+| Khi không đồng ý nhưng lịch sự | /aɪ siː ɪt ə bɪt ˈdɪfrəntli — kæn aɪ ʃɛr maɪ pəˈspɛktɪv/ | "I appreciate the feedback. I see it a bit differently — can I share my perspective?" |
+| Khi cần thời gian | /lɛt miː rɪˈflɛkt ɒn ɪt ænd kʌm bæk tuː juː/ | "Thank you for sharing this. Let me reflect on it and come back to you." |
+| Khi muốn hỏi gì cần làm khác | /wɒt wʊd juː laɪk tuː siː miː duː ˈdɪfrəntli/ | "What would you like to see me do differently going forward?" |
 
 ---
 

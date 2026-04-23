@@ -34,28 +34,28 @@
 ## 📚 Từ Vựng QC Chuyên Ngành
 
 ### Nhóm 1: Bug & Defect
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **defect / bug** | lỗi phần mềm | We found a critical defect in the payment flow. |
-| **severity** | mức độ nghiêm trọng | This bug has Severity 1 — it blocks core functionality. |
-| **priority** | mức độ ưu tiên | High priority — needs to be fixed before tomorrow's release. |
-| **root cause** | nguyên nhân gốc rễ | The root cause was an unhandled null value. |
-| **reproduce** | tái hiện lỗi | I can reproduce this bug consistently on iOS 17. |
-| **regression** | lỗi cũ xuất hiện lại | This looks like a regression from the last deployment. |
-| **workaround** | cách xử lý tạm | There's a workaround, but we need a proper fix. |
-| **edge case** | trường hợp đặc biệt | This only happens in edge cases, but we still need to address it. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **defect / bug** | /ˈdiːfekt / bʌɡ/ | lỗi phần mềm | We found a critical defect in the payment flow. |
+| **severity** | /sɪˈverɪti/ | mức độ nghiêm trọng | This bug has Severity 1 — it blocks core functionality. |
+| **priority** | /praɪˈɔːrɪti/ | mức độ ưu tiên | High priority — needs to be fixed before tomorrow's release. |
+| **root cause** | /ruːt kɔːz/ | nguyên nhân gốc rễ | The root cause was an unhandled null value. |
+| **reproduce** | /ˌriːprəˈduːs/ | tái hiện lỗi | I can reproduce this bug consistently on iOS 17. |
+| **regression** | /rɪˈɡreʃən/ | lỗi cũ xuất hiện lại | This looks like a regression from the last deployment. |
+| **workaround** | /ˈwɜːrkəraʊnd/ | cách xử lý tạm | There's a workaround, but we need a proper fix. |
+| **edge case** | /edʒ keɪs/ | trường hợp đặc biệt | This only happens in edge cases, but we still need to address it. |
 
 ### Nhóm 2: Process & Planning
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **test coverage** | độ bao phủ kiểm thử | Our test coverage is at 75% — we need to improve. |
-| **test case** | kịch bản kiểm thử | I've written 40 test cases for this sprint. |
-| **sign-off** | phê duyệt | We need sign-off from the PM before release. |
-| **UAT** | User Acceptance Testing | UAT starts next Monday with the client team. |
-| **release candidate** | phiên bản dự kiến phát hành | The release candidate is ready for final QC review. |
-| **go-live** | ngày phát hành | Go-live is scheduled for Friday. |
-| **bottleneck** | điểm nghẽn | The bottleneck right now is the automation setup. |
-| **shift left** | kiểm thử sớm trong quy trình | We're shifting left — QC is involved from sprint planning now. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **test coverage** | /test ˈkʌvərɪdʒ/ | độ bao phủ kiểm thử | Our test coverage is at 75% — we need to improve. |
+| **test case** | /test keɪs/ | kịch bản kiểm thử | I've written 40 test cases for this sprint. |
+| **sign-off** | /ˈsaɪn ɒf/ | phê duyệt | We need sign-off from the PM before release. |
+| **UAT** | /juː eɪ tiː/ | User Acceptance Testing | UAT starts next Monday with the client team. |
+| **release candidate** | /rɪˈliːs ˈkændɪdət/ | phiên bản dự kiến phát hành | The release candidate is ready for final QC review. |
+| **go-live** | /ɡoʊ lɪv/ | ngày phát hành | Go-live is scheduled for Friday. |
+| **bottleneck** | /ˈbɒtəlnek/ | điểm nghẽn | The bottleneck right now is the automation setup. |
+| **shift left** | /ʃɪft left/ | kiểm thử sớm trong quy trình | We're shifting left — QC is involved from sprint planning now. |
 
 ---
 

@@ -30,18 +30,18 @@
 
 ## 📚 Từ Vựng Hôm Nay — Leadership & Team
 
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **empower** | trao quyền | I try to empower my team to make decisions. |
-| **lead by example** | làm gương | The best way to build quality culture is to lead by example. |
-| **delegate** | phân công, giao việc | I delegate based on each person's strengths. |
-| **accountability** | trách nhiệm giải trình | I build a culture of accountability — not blame. |
-| **psychological safety** | an toàn khi nêu ý kiến | Psychological safety means people speak up without fear. |
-| **foster** | nuôi dưỡng, xây dựng | I try to foster a culture of continuous improvement. |
-| **mentor** | hướng dẫn, kèm cặp | I actively mentor junior members of the team. |
-| **trust the process** | tin vào quy trình | We've built solid processes — I trust the team to follow them. |
-| **high-performing team** | team hiệu suất cao | Building a high-performing team takes time and trust. |
-| **give autonomy** | cho quyền tự chủ | I give my team autonomy — with clear expectations. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **empower** | /ɪmˈpaʊər/ | trao quyền | I try to empower my team to make decisions. |
+| **lead by example** | /liːd baɪ ɪɡˈzɑːmpəl/ | làm gương | The best way to build quality culture is to lead by example. |
+| **delegate** | /ˈdelɪɡeɪt/ | phân công, giao việc | I delegate based on each person's strengths. |
+| **accountability** | /əˌkaʊntəˈbɪlɪti/ | trách nhiệm giải trình | I build a culture of accountability — not blame. |
+| **psychological safety** | /ˌsaɪkəˈlɒdʒɪkəl ˈseɪfti/ | an toàn khi nêu ý kiến | Psychological safety means people speak up without fear. |
+| **foster** | /ˈfɒstər/ | nuôi dưỡng, xây dựng | I try to foster a culture of continuous improvement. |
+| **mentor** | /ˈmentər/ | hướng dẫn, kèm cặp | I actively mentor junior members of the team. |
+| **trust the process** | /trʌst ðə ˈprɒses/ | tin vào quy trình | We've built solid processes — I trust the team to follow them. |
+| **high-performing team** | /haɪ pərˈfɔːrmɪŋ tiːm/ | team hiệu suất cao | Building a high-performing team takes time and trust. |
+| **give autonomy** | /ɡɪv ɔːˈtɒnəmi/ | cho quyền tự chủ | I give my team autonomy — with clear expectations. |
 
 ---
 

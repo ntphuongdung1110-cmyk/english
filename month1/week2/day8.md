@@ -32,24 +32,24 @@
 ## 📚 Từ Vựng Hôm Nay — Problems & Solutions
 
 ### Mô Tả Vấn Đề
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **raise a concern** | nêu lo ngại | I need to raise a concern about the test coverage. |
-| **flag an issue** | báo hiệu vấn đề | I want to flag an issue before we proceed. |
-| **come to light** | được phát hiện | A critical bug came to light during regression testing. |
-| **stem from** | xuất phát từ | This issue seems to stem from the recent API changes. |
-| **have implications for** | ảnh hưởng đến | This bug has implications for user data integrity. |
-| **impact** (verb) | tác động đến | This defect impacts roughly 40% of users. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **raise a concern** | /reɪz ə kənˈsɜːrn/ | nêu lo ngại | I need to raise a concern about the test coverage. |
+| **flag an issue** | /flæɡ ən ˈɪʃuː/ | báo hiệu vấn đề | I want to flag an issue before we proceed. |
+| **come to light** | /kʌm tə laɪt/ | được phát hiện | A critical bug came to light during regression testing. |
+| **stem from** | /stem frəm/ | xuất phát từ | This issue seems to stem from the recent API changes. |
+| **have implications for** | /hæv ˌɪmplɪˈkeɪʃənz fər/ | ảnh hưởng đến | This bug has implications for user data integrity. |
+| **impact** (verb) | /ˈɪmpækt/ | tác động đến | This defect impacts roughly 40% of users. |
 
 ### Đề Xuất Giải Pháp
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **tackle** | giải quyết (chủ động) | There are a few ways we can tackle this. |
-| **address** | xử lý/đề cập | We need to address this before the release. |
-| **a viable option** | lựa chọn khả thi | One viable option is to delay go-live by 24 hours. |
-| **I'd recommend** | tôi đề nghị | I'd recommend we do a hotfix rather than a full rollback. |
-| **going forward** | từ nay về sau | Going forward, we should run regression after every deployment. |
-| **in the meantime** | trong lúc đó | In the meantime, we can apply a workaround. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **tackle** | /ˈtækəl/ | giải quyết (chủ động) | There are a few ways we can tackle this. |
+| **address** | /əˈdres/ | xử lý/đề cập | We need to address this before the release. |
+| **a viable option** | /ə ˈvaɪəbəl ˈɒpʃən/ | lựa chọn khả thi | One viable option is to delay go-live by 24 hours. |
+| **I'd recommend** | /aɪd ˌrekəˈmend/ | tôi đề nghị | I'd recommend we do a hotfix rather than a full rollback. |
+| **going forward** | /ˈɡoʊɪŋ ˈfɔːrwərd/ | từ nay về sau | Going forward, we should run regression after every deployment. |
+| **in the meantime** | /ɪn ðə ˈmiːntaɪm/ | trong lúc đó | In the meantime, we can apply a workaround. |
 
 ---
 

@@ -32,18 +32,18 @@
 ## 📚 Từ Vựng Hôm Nay — QC Tech & Automation
 
 ### Tools & Frameworks
-| Từ / Cụm | Nghĩa / Dùng Khi |
-|---|---|
-| **test automation framework** | khung tự động hóa kiểm thử |
-| **CI/CD pipeline** | quy trình tích hợp & triển khai liên tục |
-| **regression suite** | bộ test hồi quy tự động |
-| **test coverage** | % code hoặc feature được test |
-| **flaky test** | test không ổn định, lúc pass lúc fail |
-| **smoke test** | test nhanh xem build có chạy được không |
-| **sanity test** | test nhỏ sau khi fix bug |
-| **load testing** | test hiệu suất khi nhiều user cùng lúc |
-| **API testing** | kiểm thử giao tiếp giữa services |
-| **end-to-end (E2E) testing** | test toàn bộ luồng từ đầu đến cuối |
+| Từ / Cụm | Phiên âm | Nghĩa / Dùng Khi |
+|---|---|---|
+| **test automation framework** | /test ˌɔːtəˈmeɪʃən ˈfreɪmwɜːrk/ | khung tự động hóa kiểm thử |
+| **CI/CD pipeline** | /siː aɪ siː diː ˈpaɪplaɪn/ | quy trình tích hợp & triển khai liên tục |
+| **regression suite** | /rɪˈɡreʃən swiːt/ | bộ test hồi quy tự động |
+| **test coverage** | /test ˈkʌvərɪdʒ/ | % code hoặc feature được test |
+| **flaky test** | /ˈfleɪki test/ | test không ổn định, lúc pass lúc fail |
+| **smoke test** | /smoʊk test/ | test nhanh xem build có chạy được không |
+| **sanity test** | /ˈsænɪti test/ | test nhỏ sau khi fix bug |
+| **load testing** | /loʊd ˈtestɪŋ/ | test hiệu suất khi nhiều user cùng lúc |
+| **API testing** | /ˌeɪ piː ˈaɪ ˈtestɪŋ/ | kiểm thử giao tiếp giữa services |
+| **end-to-end (E2E) testing** | /end tə end ˈtestɪŋ/ | test toàn bộ luồng từ đầu đến cuối |
 
 ### Talking About Automation
 ```

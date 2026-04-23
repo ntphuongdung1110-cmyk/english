@@ -33,35 +33,38 @@
 ## 📚 Từ Vựng Hôm Nay
 
 ### Đồng Ý — Từ Mạnh → Nhẹ
-```
-"Absolutely."                   → Đồng ý hoàn toàn
-"Exactly."                      → Đúng vậy
-"That's a great point."         → Điểm hay
-"I completely agree."           → Đồng ý hoàn toàn
-"You're right about that."      → Bạn đúng
-"Fair enough."                  → Có lý, chấp nhận được
-"That makes sense."             → Nghe có lý
-"I can see where you're coming from." → Tôi hiểu quan điểm của bạn
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **Absolutely.** | /ˌæbsəˈluːtli/ | Đồng ý hoàn toàn |
+| **Exactly.** | /ɪɡˈzæktli/ | Đúng vậy |
+| **That's a great point.** | /ðæts ə ɡreɪt pɔɪnt/ | Điểm hay |
+| **I completely agree.** | /aɪ kəmˈpliːtli əˈɡriː/ | Đồng ý hoàn toàn |
+| **You're right about that.** | /jɔːr raɪt əˈbaʊt ðæt/ | Bạn đúng |
+| **Fair enough.** | /fɛr ɪˈnʌf/ | Có lý, chấp nhận được |
+| **That makes sense.** | /ðæt meɪks sɛns/ | Nghe có lý |
+| **I can see where you're coming from.** | /aɪ kæn siː wɛr jɔːr ˈkʌmɪŋ frɒm/ | Tôi hiểu quan điểm của bạn |
 
 ### Không Đồng Ý — Từ Nhẹ → Mạnh
-```
-"I see your point, but..."                    → Nhẹ nhất
-"That's a fair point, though I wonder if..."  → Đặt câu hỏi
-"I'm not sure I fully agree because..."       → Không chắc
-"I'd push back on that a little."             → Phản đối nhẹ
-"I have some concerns about that."            → Có lo ngại
-"With all due respect, I think..."            → Lịch sự nhưng thẳng
-"I actually disagree on this one."            → Rõ ràng không đồng ý
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **I see your point, but...** | /aɪ siː jɔːr pɔɪnt bʌt/ | Nhẹ nhất |
+| **That's a fair point, though I wonder if...** | /ðæts ə fɛr pɔɪnt ðoʊ aɪ ˈwʌndər ɪf/ | Đặt câu hỏi |
+| **I'm not sure I fully agree because...** | /aɪm nɒt ʃʊr aɪ ˈfʊli əˈɡriː bɪˈkɒz/ | Không chắc |
+| **I'd push back on that a little.** | /aɪd pʊʃ bæk ɒn ðæt ə ˈlɪtəl/ | Phản đối nhẹ |
+| **I have some concerns about that.** | /aɪ hæv sʌm kənˈsɜːrnz əˈbaʊt ðæt/ | Có lo ngại |
+| **With all due respect, I think...** | /wɪð ɔːl djuː rɪˈspɛkt aɪ θɪŋk/ | Lịch sự nhưng thẳng |
+| **I actually disagree on this one.** | /aɪ ˈæktʃuəli ˌdɪsəˈɡriː ɒn ðɪs wʌn/ | Rõ ràng không đồng ý |
 
 ### Phrases Trung Lập — Vừa Đồng Ý Vừa Thêm Điểm
-```
-"Yes, and on top of that..."        → Đồng ý + thêm
-"You make a good point. I'd also add that..." → Đồng ý + bổ sung
-"That's true, though we should also consider..." → Đồng ý + khía cạnh khác
-"I agree to some extent, but..."    → Đồng ý một phần
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **Yes, and on top of that...** | /jɛs ænd ɒn tɒp əv ðæt/ | Đồng ý + thêm |
+| **You make a good point. I'd also add that...** | /juː meɪk ə ɡʊd pɔɪnt aɪd ˈɔːlsoʊ æd ðæt/ | Đồng ý + bổ sung |
+| **That's true, though we should also consider...** | /ðæts truː ðoʊ wiː ʃʊd ˈɔːlsoʊ kənˈsɪdər/ | Đồng ý + khía cạnh khác |
+| **I agree to some extent, but...** | /aɪ əˈɡriː tuː sʌm ɪkˈstɛnt bʌt/ | Đồng ý một phần |
 
 ---
 

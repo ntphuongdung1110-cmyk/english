@@ -19,41 +19,45 @@
 ## 📚 Từ Vựng — Describing Trends & Data
 
 ### Xu Hướng Tăng
-```
-"increased by [X]%"              → tăng X%
-"rose to [number]"               → tăng lên
-"jumped from [X] to [Y]"         → nhảy vọt từ X lên Y
-"improved significantly"         → cải thiện đáng kể
-"surged / spiked"                → tăng đột biến
-"is on an upward trend"          → đang theo xu hướng tăng
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **increased by [X]%** | /ɪnˈkriːst baɪ [X] pɜːrsɛnt/ | Tăng X% |
+| **rose to [number]** | /roʊz tuː [ˈnʌmbər]/ | Tăng lên |
+| **jumped from [X] to [Y]** | /dʒʌmpt frɒm [X] tuː [Y]/ | Nhảy vọt từ X lên Y |
+| **improved significantly** | /ɪmˈpruːvd sɪɡˈnɪfɪkəntli/ | Cải thiện đáng kể |
+| **surged / spiked** | /sɜːrdʒd / spaɪkt/ | Tăng đột biến |
+| **is on an upward trend** | /ɪz ɒn ən ˈʌpwərd trɛnd/ | Đang theo xu hướng tăng |
 
 ### Xu Hướng Giảm
-```
-"decreased by [X]%"              → giảm X%
-"dropped from [X] to [Y]"        → rớt từ X xuống Y
-"declined over the quarter"      → giảm trong quý
-"fell below [threshold]"         → rớt dưới ngưỡng
-"is on a downward trend"         → xu hướng giảm
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **decreased by [X]%** | /diːˈkriːst baɪ [X] pɜːrsɛnt/ | Giảm X% |
+| **dropped from [X] to [Y]** | /drɒpt frɒm [X] tuː [Y]/ | Rớt từ X xuống Y |
+| **declined over the quarter** | /dɪˈklaɪnd ˈoʊvər ðə ˈkwɔːrtər/ | Giảm trong quý |
+| **fell below [threshold]** | /fɛl bɪˈloʊ [ˈθrɛʃhoʊld]/ | Rớt dưới ngưỡng |
+| **is on a downward trend** | /ɪz ɒn ə ˈdaʊnwərd trɛnd/ | Xu hướng giảm |
 
 ### Ổn Định / Bình Thường
-```
-"remained stable at [number]"    → ổn định ở mức
-"stayed consistent"              → nhất quán
-"held steady"                    → giữ nguyên
-"fluctuated between [X] and [Y]" → dao động giữa X và Y
-"plateaued at [number]"          → đi ngang ở mức
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **remained stable at [number]** | /rɪˈmeɪnd ˈsteɪbəl æt [ˈnʌmbər]/ | Ổn định ở mức |
+| **stayed consistent** | /steɪd kənˈsɪstənt/ | Nhất quán |
+| **held steady** | /hɛld ˈstɛdi/ | Giữ nguyên |
+| **fluctuated between [X] and [Y]** | /ˈflʌktʃueɪtɪd bɪˈtwiːn [X] ænd [Y]/ | Dao động giữa X và Y |
+| **plateaued at [number]** | /plæˈtoʊd æt [ˈnʌmbər]/ | Đi ngang ở mức |
 
 ### Giải Thích Ý Nghĩa
-```
-"This suggests that..."          → điều này gợi ý rằng
-"What this tells us is..."       → điều này cho thấy
-"This is a positive sign because..." → đây là dấu hiệu tốt vì
-"This is concerning because..."  → đây là dấu hiệu đáng lo vì
-"The takeaway here is..."        → bài học rút ra là
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **This suggests that...** | /ðɪs səˈdʒɛsts ðæt/ | Điều này gợi ý rằng |
+| **What this tells us is...** | /wɒt ðɪs tɛlz ʌs ɪz/ | Điều này cho thấy |
+| **This is a positive sign because...** | /ðɪs ɪz ə ˈpɒzɪtɪv saɪn bɪˈkɒz/ | Đây là dấu hiệu tốt vì |
+| **This is concerning because...** | /ðɪs ɪz kənˈsɜːrnɪŋ bɪˈkɒz/ | Đây là dấu hiệu đáng lo vì |
+| **The takeaway here is...** | /ðə ˈteɪkəweɪ hɪr ɪz/ | Bài học rút ra là |
 
 ---
 

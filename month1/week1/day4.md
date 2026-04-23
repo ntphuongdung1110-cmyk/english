@@ -35,39 +35,42 @@
 ## 📚 Từ Vựng Hôm Nay — Filler Words & Transition Phrases
 
 ### Nhóm 1: Filler khi đang suy nghĩ
-```
-"Well..."              → Dùng để bắt đầu, lấy thời gian suy nghĩ
-"Um / Uh..."           → Tự nhiên, không cần tránh hoàn toàn
-"Let me think..."      → Chuyên nghiệp hơn um/uh
-"You know..."          → Kết nối với người nghe
-"I mean..."            → Giải thích lại hoặc chỉnh câu
-"Like..."              → Rất phổ biến trong casual speech
-"So..."                → Chuyển sang điểm mới
-"Okay, so..."          → Bắt đầu giải thích
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **Well...** | /wɛl/ | Dùng để bắt đầu, lấy thời gian suy nghĩ |
+| **Um / Uh...** | /ʌm / ʌ/ | Tự nhiên, không cần tránh hoàn toàn |
+| **Let me think...** | /lɛt miː θɪŋk/ | Chuyên nghiệp hơn um/uh |
+| **You know...** | /juː noʊ/ | Kết nối với người nghe |
+| **I mean...** | /aɪ miːn/ | Giải thích lại hoặc chỉnh câu |
+| **Like...** | /laɪk/ | Rất phổ biến trong casual speech |
+| **So...** | /soʊ/ | Chuyển sang điểm mới |
+| **Okay, so...** | /oʊˈkeɪ soʊ/ | Bắt đầu giải thích |
 
 ### Nhóm 2: Transition khi chuyển ý
-```
-"Anyway,..."                      → Chuyển chủ đề
-"Moving on,..."                   → Tiếp tục
-"On top of that,..."              → Thêm điểm mới
-"That said,..."                   → Chuyển sang điểm đối lập
-"Having said that,..."            → Tương tự "that said"
-"Not only that, but also..."      → Nhấn mạnh thêm
-"What's more,..."                 → Thêm điểm quan trọng
-"At the end of the day,..."       → Kết luận
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **Anyway,...** | /ˈɛniweɪ/ | Chuyển chủ đề |
+| **Moving on,...** | /ˈmuːvɪŋ ɒn/ | Tiếp tục |
+| **On top of that,...** | /ɒn tɒp əv ðæt/ | Thêm điểm mới |
+| **That said,...** | /ðæt sɛd/ | Chuyển sang điểm đối lập |
+| **Having said that,...** | /ˈhævɪŋ sɛd ðæt/ | Tương tự "that said" |
+| **Not only that, but also...** | /nɒt ˈoʊnli ðæt bʌt ˈɔːlsoʊ/ | Nhấn mạnh thêm |
+| **What's more,...** | /wɒts mɔːr/ | Thêm điểm quan trọng |
+| **At the end of the day,...** | /æt ðə ɛnd əv ðə deɪ/ | Kết luận |
 
 ### Nhóm 3: Buying time khi không biết từ
-```
-"That's a good question..."               → Lấy thời gian suy nghĩ
-"Let me put it this way..."               → Chuẩn bị giải thích khác
-"How should I put this..."                → Đang tìm từ phù hợp
-"What I'm trying to say is..."            → Giải thích lại
-"It's kind of like..."                    → Dùng so sánh thay vì từ chính xác
-"The thing is..."                         → Nhấn mạnh điểm chính
-"If that makes sense."                    → Kiểm tra người nghe có hiểu không
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **That's a good question...** | /ðæts ə ɡʊd ˈkwɛstʃən/ | Lấy thời gian suy nghĩ |
+| **Let me put it this way...** | /lɛt miː pʊt ɪt ðɪs weɪ/ | Chuẩn bị giải thích khác |
+| **How should I put this...** | /haʊ ʃʊd aɪ pʊt ðɪs/ | Đang tìm từ phù hợp |
+| **What I'm trying to say is...** | /wɒt aɪm ˈtraɪɪŋ tuː seɪ ɪz/ | Giải thích lại |
+| **It's kind of like...** | /ɪts kaɪnd əv laɪk/ | Dùng so sánh thay vì từ chính xác |
+| **The thing is...** | /ðə θɪŋ ɪz/ | Nhấn mạnh điểm chính |
+| **If that makes sense.** | /ɪf ðæt meɪks sɛns/ | Kiểm tra người nghe có hiểu không |
 
 ---
 

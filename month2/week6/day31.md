@@ -18,16 +18,16 @@
 
 ## 📚 Từ Vựng Hôm Nay
 
-| Từ / Cụm | Ví Dụ |
-|---|---|
-| **I wanted to call out** | I wanted to call out the great work on the regression suite. |
-| **really stood out** | Your attention to detail really stood out this sprint. |
-| **went above and beyond** | You went above and beyond with that test documentation. |
-| **made a real difference** | Your early bug catch made a real difference to the release. |
-| **I appreciate the effort** | I appreciate the effort you put into this. |
-| **this is exactly what we need** | This level of coverage — this is exactly what we need. |
-| **I've noticed** | I've noticed a significant improvement in your reports. |
-| **keep it up** | Great work — keep it up. |
+| Từ / Cụm | Phiên âm | Ví Dụ |
+|---|---|---|
+| **I wanted to call out** | /aɪ ˈwɒntɪd tə kɔːl aʊt/ | I wanted to call out the great work on the regression suite. |
+| **really stood out** | /ˈrɪəli stʊd aʊt/ | Your attention to detail really stood out this sprint. |
+| **went above and beyond** | /went əˈbʌv ænd bɪˈɒnd/ | You went above and beyond with that test documentation. |
+| **made a real difference** | /meɪd ə rɪəl ˈdɪfərəns/ | Your early bug catch made a real difference to the release. |
+| **I appreciate the effort** | /aɪ əˈpriːʃieɪt ði ˈefərt/ | I appreciate the effort you put into this. |
+| **this is exactly what we need** | /ðɪs ɪz ɪɡˈzæktli wʌt wiː niːd/ | This level of coverage — this is exactly what we need. |
+| **I've noticed** | /aɪv ˈnoʊtɪst/ | I've noticed a significant improvement in your reports. |
+| **keep it up** | /kiːp ɪt ʌp/ | Great work — keep it up. |
 
 ---
 

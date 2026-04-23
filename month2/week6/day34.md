@@ -18,18 +18,18 @@
 
 ## 📚 Từ Vựng Hôm Nay — Performance Review
 
-| Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **meets expectations** | đạt yêu cầu | Overall, [Name] meets expectations this quarter. |
-| **exceeds expectations** | vượt yêu cầu | Her proactive bug detection exceeds expectations. |
-| **area for development** | điểm cần phát triển | Communication skills is an area for development. |
-| **consistent performance** | hiệu suất ổn định | I'm looking for more consistent performance next quarter. |
-| **demonstrated growth** | thể hiện sự tiến bộ | He's demonstrated real growth in test planning. |
-| **needs improvement** | cần cải thiện | Documentation quality needs improvement. |
-| **key strength** | điểm mạnh chính | Her key strength is systematic thinking. |
-| **development plan** | kế hoạch phát triển | Let's put together a development plan together. |
-| **on track** | đúng hướng | You're on track for a strong end-of-year review. |
-| **raise concerns** | nêu lo ngại | I want to raise some concerns about attendance. |
+| Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **meets expectations** | /miːts ˌekspekˈteɪʃənz/ | đạt yêu cầu | Overall, [Name] meets expectations this quarter. |
+| **exceeds expectations** | /ɪkˈsiːdz ˌekspekˈteɪʃənz/ | vượt yêu cầu | Her proactive bug detection exceeds expectations. |
+| **area for development** | /ˈeəriə fər dɪˈveləpmənt/ | điểm cần phát triển | Communication skills is an area for development. |
+| **consistent performance** | /kənˈsɪstənt pərˈfɔːrməns/ | hiệu suất ổn định | I'm looking for more consistent performance next quarter. |
+| **demonstrated growth** | /ˈdemənstreɪtɪd ɡroʊθ/ | thể hiện sự tiến bộ | He's demonstrated real growth in test planning. |
+| **needs improvement** | /niːdz ɪmˈpruːvmənt/ | cần cải thiện | Documentation quality needs improvement. |
+| **key strength** | /kiː streŋθ/ | điểm mạnh chính | Her key strength is systematic thinking. |
+| **development plan** | /dɪˈveləpmənt plæn/ | kế hoạch phát triển | Let's put together a development plan together. |
+| **on track** | /ɒn træk/ | đúng hướng | You're on track for a strong end-of-year review. |
+| **raise concerns** | /reɪz kənˈsɜːrnz/ | nêu lo ngại | I want to raise some concerns about attendance. |
 
 ---
 

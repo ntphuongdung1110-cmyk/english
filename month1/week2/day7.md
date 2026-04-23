@@ -32,18 +32,18 @@
 
 ## 📚 Từ Vựng Hôm Nay — Storytelling Language
 
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **it all started when** | mọi chuyện bắt đầu khi | It all started when we got a critical bug report at 11pm. |
-| **at the time** | vào lúc đó | At the time, I had no idea how serious it was. |
-| **looking back** | nhìn lại | Looking back, I should have escalated sooner. |
-| **turning point** | bước ngoặt | That was a real turning point for how we do QC. |
-| **long story short** | nói ngắn gọn | Long story short, we fixed it and shipped on time. |
-| **out of nowhere** | đột ngột, không báo trước | Out of nowhere, the server went down 2 hours before release. |
-| **in hindsight** | nhìn lại (sau khi biết kết quả) | In hindsight, we should have done more regression testing. |
-| **take [someone] by surprise** | làm ai đó bất ngờ | The bug took everyone by surprise. |
-| **ended up** | cuối cùng (thực tế đã) | We ended up delaying the release by a day. |
-| **at that point** | vào thời điểm đó | At that point, I knew we had a serious problem. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **it all started when** | /ɪt ɔːl ˈstɑːrtɪd wen/ | mọi chuyện bắt đầu khi | It all started when we got a critical bug report at 11pm. |
+| **at the time** | /æt ðə taɪm/ | vào lúc đó | At the time, I had no idea how serious it was. |
+| **looking back** | /ˈlʊkɪŋ bæk/ | nhìn lại | Looking back, I should have escalated sooner. |
+| **turning point** | /ˈtɜːrnɪŋ pɔɪnt/ | bước ngoặt | That was a real turning point for how we do QC. |
+| **long story short** | /lɒŋ ˈstɔːri ʃɔːrt/ | nói ngắn gọn | Long story short, we fixed it and shipped on time. |
+| **out of nowhere** | /aʊt əv ˈnoʊwer/ | đột ngột, không báo trước | Out of nowhere, the server went down 2 hours before release. |
+| **in hindsight** | /ɪn ˈhaɪndsaɪt/ | nhìn lại (sau khi biết kết quả) | In hindsight, we should have done more regression testing. |
+| **take [someone] by surprise** | /teɪk baɪ sərˈpraɪz/ | làm ai đó bất ngờ | The bug took everyone by surprise. |
+| **ended up** | /ˈendɪd ʌp/ | cuối cùng (thực tế đã) | We ended up delaying the release by a day. |
+| **at that point** | /æt ðæt pɔɪnt/ | vào thời điểm đó | At that point, I knew we had a serious problem. |
 
 ---
 

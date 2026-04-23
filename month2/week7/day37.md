@@ -47,15 +47,15 @@ P: "So I strongly recommend a 2-day extension —
 
 ## 📚 Từ Vựng Hôm Nay — Presentation Signposting
 
-```
-"I'd like to make one key point..."        → mở với điểm chính
-"The reason I say that is..."             → giải thích
-"To give you a concrete example..."       → ví dụ
-"So in summary..."                        → tóm lại
-"What this means for us is..."            → ý nghĩa thực tế
-"The bottom line is..."                   → kết luận cuối
-"If I had to leave you with one thing..." → takeaway chính
-```
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **I'd like to make one key point...** | /aɪd laɪk tuː meɪk wʌn kiː pɔɪnt/ | Mở với điểm chính |
+| **The reason I say that is...** | /ðə ˈriːzən aɪ seɪ ðæt ɪz/ | Giải thích |
+| **To give you a concrete example...** | /tuː ɡɪv juː ə kənˈkriːt ɪɡˈzɑːmpəl/ | Ví dụ |
+| **So in summary...** | /soʊ ɪn ˈsʌməri/ | Tóm lại |
+| **What this means for us is...** | /wɒt ðɪs miːnz fɔːr ʌs ɪz/ | Ý nghĩa thực tế |
+| **The bottom line is...** | /ðə ˈbɒtəm laɪn ɪz/ | Kết luận cuối |
+| **If I had to leave you with one thing...** | /ɪf aɪ hæd tuː liːv juː wɪð wʌn θɪŋ/ | Takeaway chính |
 
 ---
 

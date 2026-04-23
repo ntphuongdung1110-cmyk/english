@@ -33,18 +33,18 @@
 
 ## 📚 Từ Vựng Hôm Nay — Opinion Starters
 
-| Cụm | Mức Độ | Ví Dụ |
-|---|---|---|
-| **I think...** | Casual | I think we need more test coverage. |
-| **I feel like...** | Casual, native | I feel like the dev team rushes too much. |
-| **In my opinion...** | Neutral | In my opinion, automation should come first. |
-| **From my perspective...** | Professional | From my perspective, quality is non-negotiable. |
-| **As far as I'm concerned...** | Firm opinion | As far as I'm concerned, this bug is critical. |
-| **I strongly believe...** | Emphasis | I strongly believe in test-driven development. |
-| **It seems to me (that)...** | Soft/diplomatic | It seems to me that we're missing edge cases. |
-| **I tend to think...** | Thoughtful | I tend to think bugs come from unclear requirements. |
-| **The way I see it...** | Personal view | The way I see it, QC should start earlier. |
-| **Honestly,...** | Frank | Honestly, I'm not happy with the release quality. |
+| Cụm | Phiên âm | Mức Độ | Ví Dụ |
+|---|---|---|---|
+| **I think...** | /aɪ θɪŋk/ | Casual | I think we need more test coverage. |
+| **I feel like...** | /aɪ fiːl laɪk/ | Casual, native | I feel like the dev team rushes too much. |
+| **In my opinion...** | /ɪn maɪ əˈpɪnjən/ | Neutral | In my opinion, automation should come first. |
+| **From my perspective...** | /frəm maɪ pərˈspektɪv/ | Professional | From my perspective, quality is non-negotiable. |
+| **As far as I'm concerned...** | /æz fɑːr æz aɪm kənˈsɜːrnd/ | Firm opinion | As far as I'm concerned, this bug is critical. |
+| **I strongly believe...** | /aɪ ˈstrɒŋli bɪˈliːv/ | Emphasis | I strongly believe in test-driven development. |
+| **It seems to me (that)...** | /ɪt siːmz tə miː/ | Soft/diplomatic | It seems to me that we're missing edge cases. |
+| **I tend to think...** | /aɪ tend tə θɪŋk/ | Thoughtful | I tend to think bugs come from unclear requirements. |
+| **The way I see it...** | /ðə weɪ aɪ siː ɪt/ | Personal view | The way I see it, QC should start earlier. |
+| **Honestly,...** | /ˈɒnɪstli/ | Frank | Honestly, I'm not happy with the release quality. |
 
 ---
 

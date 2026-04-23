@@ -35,33 +35,36 @@
 ## 📚 Từ Vựng Hôm Nay — Small Talk Toolkit
 
 ### Mở Đầu Small Talk
-```
-"How's it going?"                 → Casual: Dạo này thế nào?
-"How have you been?"              → Chưa gặp lâu: Bạn thế nào rồi?
-"How was your weekend?"           → Đầu tuần
-"Did you do anything fun lately?" → Mở chủ đề cuộc sống
-"How are things on your end?"     → Hỏi về phía họ (work context)
-"You look busy — everything okay?" → Quan tâm, không xâm phạm
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **How's it going?** | /haʊz ɪt ˈɡoʊɪŋ/ | Casual: Dạo này thế nào? |
+| **How have you been?** | /haʊ hæv juː biːn/ | Chưa gặp lâu: Bạn thế nào rồi? |
+| **How was your weekend?** | /haʊ wɒz jɔːr ˈwiːkɛnd/ | Đầu tuần |
+| **Did you do anything fun lately?** | /dɪd juː duː ˈɛniθɪŋ fʌn ˈleɪtli/ | Mở chủ đề cuộc sống |
+| **How are things on your end?** | /haʊ ɑːr θɪŋz ɒn jɔːr ɛnd/ | Hỏi về phía họ (work context) |
+| **You look busy — everything okay?** | /juː lʊk ˈbɪzi — ˈɛvrɪθɪŋ oʊˈkeɪ/ | Quan tâm, không xâm phạm |
 
 ### Kéo Dài Cuộc Trò Chuyện
-```
-"Oh really? How did that go?"         → Hỏi thêm
-"That sounds [fun/tough/interesting]" → Phản hồi cảm xúc
-"I totally get that."                 → Đồng cảm
-"Same here, honestly."               → Chia sẻ điểm chung
-"Tell me more about that."            → Khuyến khích họ nói thêm
-"That reminds me of..."               → Bridge sang câu chuyện của mình
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **Oh really? How did that go?** | /oʊ ˈrɪəli haʊ dɪd ðæt ɡoʊ/ | Hỏi thêm |
+| **That sounds [fun/tough/interesting]** | /ðæt saʊndz [fʌn/tʌf/ˈɪntrəstɪŋ]/ | Phản hồi cảm xúc |
+| **I totally get that.** | /aɪ ˈtoʊtəli ɡɛt ðæt/ | Đồng cảm |
+| **Same here, honestly.** | /seɪm hɪr ˈɒnɪstli/ | Chia sẻ điểm chung |
+| **Tell me more about that.** | /tɛl miː mɔːr əˈbaʊt ðæt/ | Khuyến khích họ nói thêm |
+| **That reminds me of...** | /ðæt rɪˈmaɪndz miː əv/ | Bridge sang câu chuyện của mình |
 
 ### Kết Thúc Lịch Sự
-```
-"Anyway, I'll let you get back to it." → Để họ tiếp tục làm việc
-"Good catching up with you."           → Vui khi gặp lại
-"We should grab coffee sometime."      → Mở cánh cửa gặp thêm
-"Let me know how that turns out."      → Thể hiện quan tâm
-"Alright, I'll leave you to it."       → Kết thúc nhẹ nhàng
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **Anyway, I'll let you get back to it.** | /ˈɛniweɪ aɪl lɛt juː ɡɛt bæk tuː ɪt/ | Để họ tiếp tục làm việc |
+| **Good catching up with you.** | /ɡʊd ˈkætʃɪŋ ʌp wɪð juː/ | Vui khi gặp lại |
+| **We should grab coffee sometime.** | /wiː ʃʊd ɡræb ˈkɒfi ˈsʌmtaɪm/ | Mở cánh cửa gặp thêm |
+| **Let me know how that turns out.** | /lɛt miː noʊ haʊ ðæt tɜːrnz aʊt/ | Thể hiện quan tâm |
+| **Alright, I'll leave you to it.** | /ɔːlˈraɪt aɪl liːv juː tuː ɪt/ | Kết thúc nhẹ nhàng |
 
 ### Chủ Đề Small Talk An Toàn
 ```

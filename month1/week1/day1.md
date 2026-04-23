@@ -34,18 +34,18 @@
 
 ## 📚 Từ Vựng Hôm Nay (10 từ/cụm)
 
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **currently** | hiện tại | I'm currently working as a QC Manager. |
-| **responsible for** | chịu trách nhiệm về | I'm responsible for quality assurance. |
-| **in charge of** | phụ trách | I'm in charge of a team of 5 testers. |
-| **deal with** | xử lý / đối phó | I deal with critical bugs daily. |
-| **collaborate with** | hợp tác với | I collaborate with the dev team closely. |
-| **passionate about** | đam mê | I'm passionate about improving processes. |
-| **background in** | nền tảng về | I have a background in software testing. |
-| **specialize in** | chuyên về | I specialize in QC for mobile apps. |
-| **look after** | quản lý / trông nom | I look after the entire test cycle. |
-| **keen on** | hứng thú với | I'm keen on learning new testing tools. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **currently** | /ˈkɜːrəntli/ | hiện tại | I'm currently working as a QC Manager. |
+| **responsible for** | /rɪˈspɒnsɪbəl fər/ | chịu trách nhiệm về | I'm responsible for quality assurance. |
+| **in charge of** | /ɪn tʃɑːrdʒ əv/ | phụ trách | I'm in charge of a team of 5 testers. |
+| **deal with** | /diːl wɪð/ | xử lý / đối phó | I deal with critical bugs daily. |
+| **collaborate with** | /kəˈlæbəreɪt wɪð/ | hợp tác với | I collaborate with the dev team closely. |
+| **passionate about** | /ˈpæʃənət əˈbaʊt/ | đam mê | I'm passionate about improving processes. |
+| **background in** | /ˈbækɡraʊnd ɪn/ | nền tảng về | I have a background in software testing. |
+| **specialize in** | /ˈspeʃəlaɪz ɪn/ | chuyên về | I specialize in QC for mobile apps. |
+| **look after** | /lʊk ˈæftər/ | quản lý / trông nom | I look after the entire test cycle. |
+| **keen on** | /kiːn ɒn/ | hứng thú với | I'm keen on learning new testing tools. |
 
 ---
 

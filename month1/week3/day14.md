@@ -47,18 +47,18 @@ I — Impact     (Ảnh hưởng của hành vi đó)
 
 ## 📚 Từ Vựng Hôm Nay
 
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **I noticed** | tôi quan sát thấy | I noticed the test cases weren't updated after the change. |
-| **specific and actionable** | cụ thể và có thể thực hiện | Feedback should be specific and actionable. |
-| **going forward** | từ nay về sau | Going forward, could you include reproduction steps? |
-| **I wanted to flag** | tôi muốn lưu ý | I wanted to flag something from this week's reports. |
-| **what worked well** | điều làm tốt | Let me start with what worked well. |
-| **one area to improve** | một điểm cần cải thiện | One area I'd like to focus on is test documentation. |
-| **I appreciate** | tôi đánh giá cao | I appreciate the effort you put into this. |
-| **have you considered** | bạn đã cân nhắc chưa | Have you considered adding more edge cases? |
-| **let's work on** | hãy cùng cải thiện | Let's work on making the reports more structured. |
-| **I'm here to support** | tôi ở đây để hỗ trợ | I'm here to support you — let me know what you need. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **I noticed** | /aɪ ˈnoʊtɪst/ | tôi quan sát thấy | I noticed the test cases weren't updated after the change. |
+| **specific and actionable** | /spəˈsɪfɪk ænd ˈækʃənəbəl/ | cụ thể và có thể thực hiện | Feedback should be specific and actionable. |
+| **going forward** | /ˈɡoʊɪŋ ˈfɔːrwərd/ | từ nay về sau | Going forward, could you include reproduction steps? |
+| **I wanted to flag** | /aɪ ˈwɒntɪd tə flæɡ/ | tôi muốn lưu ý | I wanted to flag something from this week's reports. |
+| **what worked well** | /wʌt wɜːrkt wel/ | điều làm tốt | Let me start with what worked well. |
+| **one area to improve** | /wʌn ˈeəriə tə ɪmˈpruːv/ | một điểm cần cải thiện | One area I'd like to focus on is test documentation. |
+| **I appreciate** | /aɪ əˈpriːʃieɪt/ | tôi đánh giá cao | I appreciate the effort you put into this. |
+| **have you considered** | /hæv juː kənˈsɪdərd/ | bạn đã cân nhắc chưa | Have you considered adding more edge cases? |
+| **let's work on** | /lets wɜːrk ɒn/ | hãy cùng cải thiện | Let's work on making the reports more structured. |
+| **I'm here to support** | /aɪm hɪər tə səˈpɔːrt/ | tôi ở đây để hỗ trợ | I'm here to support you — let me know what you need. |
 
 ---
 

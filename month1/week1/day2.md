@@ -32,18 +32,18 @@
 
 ## 📚 Từ Vựng Hôm Nay — Work Action Verbs
 
-| Từ / Cụm | Nghĩa | Ví Dụ Thực Tế |
-|---|---|---|
-| **kick off** | bắt đầu (meeting/ngày làm) | We kick off with a standup at 9am. |
-| **wrap up** | kết thúc | Let's wrap up by 5pm. |
-| **check in with** | kiểm tra / hỏi thăm | I check in with my team every morning. |
-| **go over** | xem xét, review | I go over the bug list before the meeting. |
-| **prioritize** | ưu tiên | We need to prioritize the critical issues. |
-| **follow up on** | theo dõi tiến độ | I'll follow up on that ticket tomorrow. |
-| **loop in** | kéo ai vào vòng thông tin | Let me loop in the dev lead on this. |
-| **keep an eye on** | theo dõi sát | I keep an eye on the test coverage metrics. |
-| **get bogged down** | bị sa lầy / mất nhiều thời gian | I don't want to get bogged down in details. |
-| **catch up on** | cập nhật lại | I need to catch up on the test reports. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ Thực Tế |
+|---|---|---|---|
+| **kick off** | /kɪk ɒf/ | bắt đầu (meeting/ngày làm) | We kick off with a standup at 9am. |
+| **wrap up** | /ræp ʌp/ | kết thúc | Let's wrap up by 5pm. |
+| **check in with** | /tʃek ɪn wɪð/ | kiểm tra / hỏi thăm | I check in with my team every morning. |
+| **go over** | /ɡoʊ ˈoʊvər/ | xem xét, review | I go over the bug list before the meeting. |
+| **prioritize** | /praɪˈɔːrɪtaɪz/ | ưu tiên | We need to prioritize the critical issues. |
+| **follow up on** | /ˈfɒloʊ ʌp ɒn/ | theo dõi tiến độ | I'll follow up on that ticket tomorrow. |
+| **loop in** | /luːp ɪn/ | kéo ai vào vòng thông tin | Let me loop in the dev lead on this. |
+| **keep an eye on** | /kiːp ən aɪ ɒn/ | theo dõi sát | I keep an eye on the test coverage metrics. |
+| **get bogged down** | /ɡet bɒɡd daʊn/ | bị sa lầy / mất nhiều thời gian | I don't want to get bogged down in details. |
+| **catch up on** | /kætʃ ʌp ɒn/ | cập nhật lại | I need to catch up on the test reports. |
 
 ---
 

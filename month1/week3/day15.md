@@ -32,37 +32,41 @@
 ## 📚 Từ Vựng Hôm Nay — Clarification Toolkit
 
 ### Hỏi Lại Khi Không Nghe Rõ
-```
-"Sorry, could you repeat that?"
-"I didn't quite catch that — could you say it again?"
-"Could you speak up a little? I'm having trouble hearing."
-"Sorry — the line cut out. Could you say that last part again?"
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **Sorry, could you repeat that?** | /ˈsɒri kʊd juː rɪˈpiːt ðæt/ | Xin lỗi, nhờ nói lại |
+| **I didn't quite catch that — could you say it again?** | /aɪ ˈdɪdənt kwaɪt kætʃ ðæt/ | Tôi không nghe rõ — nói lại được không? |
+| **Could you speak up a little? I'm having trouble hearing.** | /kʊd juː spiːk ʌp ə ˈlɪtəl/ | Bạn có thể nói to hơn không? |
+| **Sorry — the line cut out. Could you say that last part again?** | /ðə laɪn kʌt aʊt/ | Đường line bị cắt — nói lại phần cuối được không? |
 
 ### Hỏi Lại Khi Không Hiểu Nghĩa
-```
-"Could you elaborate on that?"
-"What do you mean by [term]?"
-"I want to make sure I understand — are you saying [restatement]?"
-"Just to clarify — when you say [X], do you mean [A] or [B]?"
-"Could you give me a concrete example?"
-"Can you walk me through what that looks like in practice?"
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **Could you elaborate on that?** | /kʊd juː ɪˈlæbəreɪt ɒn ðæt/ | Bạn có thể nói thêm không? |
+| **What do you mean by [term]?** | /wɒt duː juː miːn baɪ [tɜːrm]/ | Ý bạn là gì khi nói [từ]? |
+| **I want to make sure I understand — are you saying [restatement]?** | /aɪ wɒnt tuː meɪk ʃʊr aɪ ˌʌndəˈstænd/ | Để chắc tôi hiểu đúng — ý bạn là...? |
+| **Just to clarify — when you say [X], do you mean [A] or [B]?** | /dʒʌst tuː ˈklærɪfaɪ/ | Để làm rõ — khi nói [X], bạn có nghĩa [A] hay [B]? |
+| **Could you give me a concrete example?** | /kʊd juː ɡɪv miː ə kənˈkriːt ɪɡˈzɑːmpəl/ | Bạn có thể cho một ví dụ cụ thể không? |
+| **Can you walk me through what that looks like in practice?** | /kæn juː wɔːk miː θruː wɒt ðæt lʊks laɪk ɪn ˈpræktɪs/ | Bạn có thể diễn giải thực tế ra sao không? |
 
 ### Confirm Lại Trước Khi Hành Động
-```
-"Just to make sure I'm aligned — the expectation is [your understanding], correct?"
-"So what you're asking for is [restatement] — is that right?"
-"Before I move forward, I want to confirm [key point]."
-"Let me play that back to make sure I got it: [summary]. Does that sound right?"
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **Just to make sure I'm aligned — the expectation is [X], correct?** | /dʒʌst tuː meɪk ʃʊr aɪm əˈlaɪnd — kəˈrɛkt/ | Để chắc tôi hiểu đúng — kỳ vọng là [X], đúng không? |
+| **So what you're asking for is [restatement] — is that right?** | /soʊ wɒt jɔːr ˈɑːskɪŋ fɔːr ɪz — ɪz ðæt raɪt/ | Vậy bạn muốn [X] — đúng không? |
+| **Before I move forward, I want to confirm [key point].** | /bɪˈfɔːr aɪ muːv ˈfɔːrwərd aɪ wɒnt tuː kənˈfɜːrm/ | Trước khi tiến hành, tôi muốn xác nhận... |
+| **Let me play that back to make sure I got it: [summary]. Does that sound right?** | /lɛt miː pleɪ ðæt bæk — dʌz ðæt saʊnd raɪt/ | Để tôi nhắc lại cho chắc — nghe có đúng không? |
 
 ### Khi Cần Thêm Thời Gian Xử Lý
-```
-"That's a lot to take in — could you summarize the key points?"
-"Let me make sure I'm following: [attempt to restate]."
-"I'm with you up to [point] — could you help me understand [next part]?"
-```
+
+| Từ / Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| **That's a lot to take in — could you summarize the key points?** | /ðæts ə lɒt tuː teɪk ɪn — kʊd juː ˈsʌməraɪz/ | Nhiều thông tin quá — bạn có thể tóm tắt điểm chính không? |
+| **Let me make sure I'm following: [attempt to restate].** | /lɛt miː meɪk ʃʊr aɪm ˈfɒloʊɪŋ/ | Để tôi kiểm tra xem tôi có đang theo kịp không... |
+| **I'm with you up to [point] — could you help me understand [next part]?** | /aɪm wɪð juː ʌp tuː [pɔɪnt] — kʊd juː hɛlp miː ˌʌndəˈstænd/ | Tôi hiểu đến phần [X] — bạn có thể giải thích thêm phần tiếp theo không? |
 
 ---
 

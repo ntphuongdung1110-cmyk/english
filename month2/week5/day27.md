@@ -18,18 +18,18 @@
 
 ## 📚 Từ Vựng Hôm Nay
 
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **action item** | việc cần làm | Let's capture that as an action item. |
-| **owner** | người chịu trách nhiệm | Who's the owner for this item? |
-| **due date** | hạn chót | Every action item needs a due date. |
-| **follow up** | theo dõi | I'll follow up with you by EOD. |
-| **EOD / EOM** | end of day / month | Please send the report by EOD Friday. |
-| **loop back** | quay lại sau | Let me loop back after I check with the team. |
-| **confirm in writing** | xác nhận bằng văn bản | Can you confirm that in writing? I'll send an email. |
-| **deliverable** | sản phẩm/kết quả cần nộp | What's the deliverable for this task? |
-| **blockers** | vật cản tiến độ | Flag any blockers in Slack as they come up. |
-| **check-in** | kiểm tra ngắn | Quick check-in tomorrow at 3pm? |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **action item** | /ˈækʃən ˈaɪtəm/ | việc cần làm | Let's capture that as an action item. |
+| **owner** | /ˈoʊnər/ | người chịu trách nhiệm | Who's the owner for this item? |
+| **due date** | /djuː deɪt/ | hạn chót | Every action item needs a due date. |
+| **follow up** | /ˈfɒloʊ ʌp/ | theo dõi | I'll follow up with you by EOD. |
+| **EOD / EOM** | /iː oʊ diː / iː oʊ em/ | end of day / month | Please send the report by EOD Friday. |
+| **loop back** | /luːp bæk/ | quay lại sau | Let me loop back after I check with the team. |
+| **confirm in writing** | /kənˈfɜːrm ɪn ˈraɪtɪŋ/ | xác nhận bằng văn bản | Can you confirm that in writing? I'll send an email. |
+| **deliverable** | /dɪˈlɪvərəbəl/ | sản phẩm/kết quả cần nộp | What's the deliverable for this task? |
+| **blockers** | /ˈblɒkərz/ | vật cản tiến độ | Flag any blockers in Slack as they come up. |
+| **check-in** | /ˈtʃek ɪn/ | kiểm tra ngắn | Quick check-in tomorrow at 3pm? |
 
 ---
 

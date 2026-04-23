@@ -32,18 +32,18 @@
 
 ## 📚 Từ Vựng Hôm Nay — Stress & Wellbeing
 
-| Từ / Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **I've been swamped** | bận túi bụi | Sorry for the late reply — I've been swamped this week. |
-| **it's been hectic** | rất hỗn loạn / bận rộn | It's been hectic — release week always is. |
-| **burned out** | kiệt sức vì làm quá nhiều | I think the team is getting burned out. |
-| **decompress** | xả hơi, giải tỏa stress | I need the weekend to decompress. |
-| **set boundaries** | đặt ranh giới | I've started setting boundaries — no emails after 8pm. |
-| **overwhelmed** | bị choáng ngợp | I felt overwhelmed during the last sprint crunch. |
-| **take a step back** | lùi lại nhìn toàn cảnh | Sometimes you need to take a step back and reprioritize. |
-| **recharge** | nạp lại năng lượng | I recharge by going for walks during lunch. |
-| **manage expectations** | quản lý kỳ vọng | I had to manage expectations with the PM about the timeline. |
-| **sustainable pace** | tốc độ làm việc bền vững | We can't keep this pace — it's not sustainable. |
+| Từ / Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **I've been swamped** | /aɪv bɪn swɒmpt/ | bận túi bụi | Sorry for the late reply — I've been swamped this week. |
+| **it's been hectic** | /ɪts bɪn ˈhektɪk/ | rất hỗn loạn / bận rộn | It's been hectic — release week always is. |
+| **burned out** | /bɜːrnd aʊt/ | kiệt sức vì làm quá nhiều | I think the team is getting burned out. |
+| **decompress** | /ˌdiːkəmˈpres/ | xả hơi, giải tỏa stress | I need the weekend to decompress. |
+| **set boundaries** | /set ˈbaʊndəriz/ | đặt ranh giới | I've started setting boundaries — no emails after 8pm. |
+| **overwhelmed** | /ˌoʊvərˈwelmd/ | bị choáng ngợp | I felt overwhelmed during the last sprint crunch. |
+| **take a step back** | /teɪk ə step bæk/ | lùi lại nhìn toàn cảnh | Sometimes you need to take a step back and reprioritize. |
+| **recharge** | /ˌriːˈtʃɑːrdʒ/ | nạp lại năng lượng | I recharge by going for walks during lunch. |
+| **manage expectations** | /ˈmænɪdʒ ˌekspekˈteɪʃənz/ | quản lý kỳ vọng | I had to manage expectations with the PM about the timeline. |
+| **sustainable pace** | /səˈsteɪnəbəl peɪs/ | tốc độ làm việc bền vững | We can't keep this pace — it's not sustainable. |
 
 ---
 

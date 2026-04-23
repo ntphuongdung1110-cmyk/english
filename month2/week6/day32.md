@@ -18,16 +18,16 @@
 
 ## 📚 Từ Vựng Hôm Nay — Advanced Feedback
 
-| Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **pattern I've been noticing** | xu hướng lặp lại | There's a pattern I've been noticing over the last few sprints. |
-| **it's becoming a concern** | đang trở thành vấn đề | This is becoming a concern for me. |
-| **impact on the team** | ảnh hưởng đến team | I want to talk about the impact on the team. |
-| **let's get ahead of this** | xử lý trước khi nghiêm trọng hơn | I want to get ahead of this before it becomes a bigger issue. |
-| **performance improvement** | cải thiện hiệu suất | I want to support your growth and performance improvement. |
-| **I need to see [change] by [date]** | kỳ vọng rõ ràng | I need to see consistent documentation by end of next sprint. |
-| **non-negotiable** | không thể thương lượng | Accurate severity ratings — that's non-negotiable for me. |
-| **what's getting in the way** | điều gì đang cản trở | Help me understand what's getting in the way. |
+| Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **pattern I've been noticing** | /ˈpætərn aɪv bɪn ˈnoʊtɪsɪŋ/ | xu hướng lặp lại | There's a pattern I've been noticing over the last few sprints. |
+| **it's becoming a concern** | /ɪts bɪˈkʌmɪŋ ə kənˈsɜːrn/ | đang trở thành vấn đề | This is becoming a concern for me. |
+| **impact on the team** | /ˈɪmpækt ɒn ðə tiːm/ | ảnh hưởng đến team | I want to talk about the impact on the team. |
+| **let's get ahead of this** | /lets ɡet əˈhed əv ðɪs/ | xử lý trước khi nghiêm trọng hơn | I want to get ahead of this before it becomes a bigger issue. |
+| **performance improvement** | /pərˈfɔːrməns ɪmˈpruːvmənt/ | cải thiện hiệu suất | I want to support your growth and performance improvement. |
+| **I need to see [change] by [date]** | /aɪ niːd tə siː/ | kỳ vọng rõ ràng | I need to see consistent documentation by end of next sprint. |
+| **non-negotiable** | /nɒn nɪˈɡoʊʃiəbəl/ | không thể thương lượng | Accurate severity ratings — that's non-negotiable for me. |
+| **what's getting in the way** | /wʌts ˈɡetɪŋ ɪn ðə weɪ/ | điều gì đang cản trở | Help me understand what's getting in the way. |
 
 ---
 

@@ -32,25 +32,25 @@
 ## 📚 Từ Vựng Hôm Nay — Future & Planning
 
 ### Nói Về Kế Hoạch
-| Cụm | Mức Độ Chắc Chắn | Ví Dụ |
-|---|---|---|
-| **I'm planning to** | Chắc chắn | I'm planning to automate the regression suite. |
-| **We're going to** | Chắc chắn (đã quyết định) | We're going to start UAT next Monday. |
-| **I intend to** | Formal, có chủ đích | I intend to complete the test plan by Friday. |
-| **I'm looking to** | Flexible, đang xem xét | I'm looking to bring in a new automation engineer. |
-| **We're hoping to** | Optimistic, chưa chắc | We're hoping to finish testing by end of week. |
-| **I'm thinking about** | Chưa quyết định | I'm thinking about restructuring the QC workflow. |
-| **I'm considering** | Đang cân nhắc | I'm considering implementing a new bug tracking process. |
+| Cụm | Phiên âm | Mức Độ Chắc Chắn | Ví Dụ |
+|---|---|---|---|
+| **I'm planning to** | /aɪm ˈplænɪŋ tə/ | Chắc chắn | I'm planning to automate the regression suite. |
+| **We're going to** | /wɪər ˈɡoʊɪŋ tə/ | Chắc chắn (đã quyết định) | We're going to start UAT next Monday. |
+| **I intend to** | /aɪ ɪnˈtend tə/ | Formal, có chủ đích | I intend to complete the test plan by Friday. |
+| **I'm looking to** | /aɪm ˈlʊkɪŋ tə/ | Flexible, đang xem xét | I'm looking to bring in a new automation engineer. |
+| **We're hoping to** | /wɪər ˈhoʊpɪŋ tə/ | Optimistic, chưa chắc | We're hoping to finish testing by end of week. |
+| **I'm thinking about** | /aɪm ˈθɪŋkɪŋ əˈbaʊt/ | Chưa quyết định | I'm thinking about restructuring the QC workflow. |
+| **I'm considering** | /aɪm kənˈsɪdərɪŋ/ | Đang cân nhắc | I'm considering implementing a new bug tracking process. |
 
 ### Dự Đoán
-| Cụm | Ví Dụ |
-|---|---|
-| **I expect [something] to** | I expect the regression to take about 2 days. |
-| **I anticipate (that)** | I anticipate some issues with the new API integration. |
-| **It's likely that** | It's likely that we'll find more bugs in the payment module. |
-| **There's a good chance** | There's a good chance we'll need to push the deadline. |
-| **I wouldn't be surprised if** | I wouldn't be surprised if this takes longer than expected. |
-| **Chances are** | Chances are the QA automation will catch these early. |
+| Cụm | Phiên âm | Ví Dụ |
+|---|---|---|
+| **I expect [something] to** | /aɪ ɪkˈspekt/ | I expect the regression to take about 2 days. |
+| **I anticipate (that)** | /aɪ ænˈtɪsɪpeɪt/ | I anticipate some issues with the new API integration. |
+| **It's likely that** | /ɪts ˈlaɪkli ðæt/ | It's likely that we'll find more bugs in the payment module. |
+| **There's a good chance** | /ðerz ə ɡʊd tʃæns/ | There's a good chance we'll need to push the deadline. |
+| **I wouldn't be surprised if** | /aɪ ˈwʊdnt biː sərˈpraɪzd ɪf/ | I wouldn't be surprised if this takes longer than expected. |
+| **Chances are** | /ˈtʃænsɪz ɑːr/ | Chances are the QA automation will catch these early. |
 
 ---
 

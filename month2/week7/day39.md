@@ -18,15 +18,15 @@
 
 ## 📚 Từ Vựng — Data Storytelling
 
-| Cụm | Nghĩa | Ví Dụ |
-|---|---|---|
-| **the story these numbers tell** | câu chuyện từ số liệu | The story these numbers tell is one of steady improvement. |
-| **behind the numbers** | bên dưới các con số | But behind the numbers, there's a real human story. |
-| **what this means in practice** | điều này có nghĩa thực tế | What this means in practice is fewer late nights. |
-| **to put that in context** | để hiểu ngữ cảnh | To put that in context: last year, we had 3 production outages. |
-| **translate into** | chuyển thành | That 15% improvement translates into 2 days saved per sprint. |
-| **the real cost is** | chi phí thực sự là | The real cost isn't the bug — it's the trust we lose. |
-| **paint a picture** | dựng lên bức tranh tổng thể | Let me paint a picture of where we were 6 months ago. |
+| Cụm | Phiên âm | Nghĩa | Ví Dụ |
+|---|---|---|---|
+| **the story these numbers tell** | /ðə ˈstɔːri ðiːz ˈnʌmbərz tel/ | câu chuyện từ số liệu | The story these numbers tell is one of steady improvement. |
+| **behind the numbers** | /bɪˈhaɪnd ðə ˈnʌmbərz/ | bên dưới các con số | But behind the numbers, there's a real human story. |
+| **what this means in practice** | /wʌt ðɪs miːnz ɪn ˈpræktɪs/ | điều này có nghĩa thực tế | What this means in practice is fewer late nights. |
+| **to put that in context** | /tə pʊt ðæt ɪn ˈkɒntekst/ | để hiểu ngữ cảnh | To put that in context: last year, we had 3 production outages. |
+| **translate into** | /trænsˈleɪt ˈɪntuː/ | chuyển thành | That 15% improvement translates into 2 days saved per sprint. |
+| **the real cost is** | /ðə rɪəl kɒst ɪz/ | chi phí thực sự là | The real cost isn't the bug — it's the trust we lose. |
+| **paint a picture** | /peɪnt ə ˈpɪktʃər/ | dựng lên bức tranh tổng thể | Let me paint a picture of where we were 6 months ago. |
 
 ---
 

@@ -32,16 +32,16 @@
 ## 📚 Từ Vựng Hôm Nay — Presentation & Data Language
 
 ### Signposting (Dẫn Dắt Người Nghe)
-| Cụm | Dùng Khi | Ví Dụ |
-|---|---|---|
-| **I'd like to walk you through** | Mở đầu | I'd like to walk you through last month's QC results. |
-| **Let me start with** | Bắt đầu phần đầu | Let me start with the overall test summary. |
-| **Moving on to** | Chuyển phần | Moving on to defect analysis. |
-| **As you can see** | Chỉ vào data/chart | As you can see, our pass rate improved by 12%. |
-| **This is significant because** | Giải thích tầm quan trọng | This is significant because it reflects our shift-left approach. |
-| **To summarize** | Tóm tắt | To summarize, we closed 47 of 52 bugs this sprint. |
-| **Based on these results** | Rút ra kết luận | Based on these results, I'd recommend extending UAT. |
-| **I'd like to leave you with** | Kết | I'd like to leave you with one key takeaway. |
+| Cụm | Phiên âm | Dùng Khi | Ví Dụ |
+|---|---|---|---|
+| **I'd like to walk you through** | /aɪd laɪk tə wɔːk juː θruː/ | Mở đầu | I'd like to walk you through last month's QC results. |
+| **Let me start with** | /let miː stɑːrt wɪð/ | Bắt đầu phần đầu | Let me start with the overall test summary. |
+| **Moving on to** | /ˈmuːvɪŋ ɒn tə/ | Chuyển phần | Moving on to defect analysis. |
+| **As you can see** | /æz juː kæn siː/ | Chỉ vào data/chart | As you can see, our pass rate improved by 12%. |
+| **This is significant because** | /ðɪs ɪz sɪɡˈnɪfɪkənt bɪˈkɒz/ | Giải thích tầm quan trọng | This is significant because it reflects our shift-left approach. |
+| **To summarize** | /tə ˈsʌməraɪz/ | Tóm tắt | To summarize, we closed 47 of 52 bugs this sprint. |
+| **Based on these results** | /beɪst ɒn ðiːz rɪˈzʌlts/ | Rút ra kết luận | Based on these results, I'd recommend extending UAT. |
+| **I'd like to leave you with** | /aɪd laɪk tə liːv juː wɪð/ | Kết | I'd like to leave you with one key takeaway. |
 
 ### Mô Tả Số Liệu
 ```
