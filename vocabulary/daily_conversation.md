@@ -2,75 +2,75 @@
 
 ## Đồng ý / Xác nhận
 
-| Từ/Cụm | Nghĩa |
-|---|---|
-| Sounds good | Nghe có vẻ ổn |
-| Got it | Hiểu rồi |
-| Makes sense | Có lý đó |
-| Absolutely | Hoàn toàn đồng ý |
-| Fair enough | Cũng hợp lý |
+| Từ/Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| Sounds good | /saʊndz ɡʊd/ | Nghe có vẻ ổn |
+| Got it | /ɡɒt ɪt/ | Hiểu rồi |
+| Makes sense | /meɪks sɛns/ | Có lý đó |
+| Absolutely | /ˈæbsəluːtli/ | Hoàn toàn đồng ý |
+| Fair enough | /fɛr ɪˈnʌf/ | Cũng hợp lý |
 
 ## Không chắc / Do dự
 
-| Từ/Cụm | Nghĩa |
-|---|---|
-| I'm not sure | Tôi không chắc |
-| It depends | Còn tùy |
-| Kind of / Sort of | Cũng tạm / Hơi hơi |
-| I suppose | Tôi đoán vậy |
+| Từ/Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| I'm not sure | /aɪm nɒt ʃʊr/ | Tôi không chắc |
+| It depends | /ɪt dɪˈpɛndz/ | Còn tùy |
+| Kind of / Sort of | /kaɪnd əv / sɔːrt əv/ | Cũng tạm / Hơi hơi |
+| I suppose | /aɪ səˈpoʊz/ | Tôi đoán vậy |
 
 ## Hỏi lại / Làm rõ
 
-| Từ/Cụm | Nghĩa |
-|---|---|
-| What do you mean? | Ý bạn là gì? |
-| Could you clarify? | Bạn có thể làm rõ không? |
-| Just to confirm... | Để xác nhận lại... |
-| In other words... | Nói cách khác... |
+| Từ/Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| What do you mean? | /wɒt duː juː miːn/ | Ý bạn là gì? |
+| Could you clarify? | /kʊd juː ˈklærɪfaɪ/ | Bạn có thể làm rõ không? |
+| Just to confirm... | /dʒʌst tuː kənˈfɜːrm/ | Để xác nhận lại... |
+| In other words... | /ɪn ˈʌðər wɜːrdz/ | Nói cách khác... |
 
 ## Chuyển chủ đề / Nối ý
 
-| Từ/Cụm | Nghĩa |
-|---|---|
-| By the way | Nhân tiện |
-| On that note | Nói đến điều đó |
-| Speaking of which | Nhắc đến chuyện này |
-| Anyway | Thôi, quay lại... |
+| Từ/Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| By the way | /baɪ ðə weɪ/ | Nhân tiện |
+| On that note | /ɒn ðæt noʊt/ | Nói đến điều đó |
+| Speaking of which | /ˈspiːkɪŋ əv wɪtʃ/ | Nhắc đến chuyện này |
+| Anyway | /ˈɛniweɪ/ | Thôi, quay lại... |
 
 ## Bày tỏ ý kiến
 
-| Từ/Cụm | Nghĩa |
-|---|---|
-| Honestly | Thành thật mà nói |
-| To be fair | Mà thật ra |
-| In my opinion | Theo tôi |
-| I feel like... | Tôi có cảm giác... |
+| Từ/Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| Honestly | /ˈɒnɪstli/ | Thành thật mà nói |
+| To be fair | /tuː biː fɛr/ | Mà thật ra |
+| In my opinion | /ɪn maɪ əˈpɪnjən/ | Theo tôi |
+| I feel like... | /aɪ fiːl laɪk/ | Tôi có cảm giác... |
 
 ## Trong công việc / Họp
 
-| Từ/Cụm | Nghĩa |
-|---|---|
-| Let me loop in... | Để tôi kéo... vào nhóm |
-| Let's touch base | Hãy cùng sync lại |
-| Moving forward | Từ giờ trở đi |
-| Take it offline | Nói riêng sau |
-| On the same page | Hiểu như nhau |
+| Từ/Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| Let me loop in... | /lɛt miː luːp ɪn/ | Để tôi kéo... vào nhóm |
+| Let's touch base | /lɛts tʌtʃ beɪs/ | Hãy cùng sync lại |
+| Moving forward | /ˈmuːvɪŋ ˈfɔːrwərd/ | Từ giờ trở đi |
+| Take it offline | /teɪk ɪt ˈɒflaɪn/ | Nói riêng sau |
+| On the same page | /ɒn ðə seɪm peɪdʒ/ | Hiểu như nhau |
 
 ---
 
 ## Small Talk với đồng nghiệp
 
-| Từ/Cụm | Nghĩa | Ví dụ |
-|---|---|---|
-| How's it going? | Dạo này thế nào? | "Hey, how's it going?" |
-| Not bad, you? | Cũng ổn, còn bạn? | — |
-| Same old, same old | Vẫn vậy thôi | "How's work?" → "Same old, same old" |
-| Hanging in there | Cố gắng cầm cự | "Busy week?" → "Yeah, hanging in there" |
-| TGIF! | Cuối tuần rồi! | (Thank God It's Friday) |
-| Any plans for the weekend? | Cuối tuần có kế hoạch gì không? | — |
-| I could use a coffee | Tôi cần uống cà phê quá | — |
-| Crazy busy lately | Dạo này bận điên lên | — |
-| Let's catch up soon | Hẹn nói chuyện sớm nhé | — |
+| Từ/Cụm | Phiên âm | Nghĩa | Ví dụ |
+|---|---|---|---|
+| How's it going? | /haʊz ɪt ˈɡoʊɪŋ/ | Dạo này thế nào? | "Hey, how's it going?" |
+| Not bad, you? | /nɒt bæd juː/ | Cũng ổn, còn bạn? | — |
+| Same old, same old | /seɪm oʊld seɪm oʊld/ | Vẫn vậy thôi | "How's work?" → "Same old, same old" |
+| Hanging in there | /ˈhæŋɪŋ ɪn ðɛr/ | Cố gắng cầm cự | "Busy week?" → "Yeah, hanging in there" |
+| TGIF! | /tiː dʒiː aɪ ɛf/ | Cuối tuần rồi! | (Thank God It's Friday) |
+| Any plans for the weekend? | /ˈɛni plænz fɔːr ðə ˈwiːkɛnd/ | Cuối tuần có kế hoạch gì không? | — |
+| I could use a coffee | /aɪ kʊd juːz ə ˈkɒfi/ | Tôi cần uống cà phê quá | — |
+| Crazy busy lately | /ˈkreɪzi ˈbɪzi ˈleɪtli/ | Dạo này bận điên lên | — |
+| Let's catch up soon | /lɛts kætʃ ʌp suːn/ | Hẹn nói chuyện sớm nhé | — |
 
 ### Hội thoại mẫu — Small Talk
 
@@ -84,16 +84,16 @@
 
 ## Đặt vé / Booking
 
-| Từ/Cụm | Nghĩa |
-|---|---|
-| I'd like to book... | Tôi muốn đặt... |
-| Do you have availability on...? | Còn chỗ vào ngày... không? |
-| I'll take the window seat | Tôi lấy ghế cửa sổ |
-| Is it refundable? | Có hoàn tiền không? |
-| Can I change the date? | Tôi có thể đổi ngày không? |
-| What's included? | Bao gồm những gì? |
-| I'd like to confirm my reservation | Tôi muốn xác nhận đặt chỗ |
-| How much is the cancellation fee? | Phí hủy là bao nhiêu? |
+| Từ/Cụm | Phiên âm | Nghĩa |
+|---|---|---|
+| I'd like to book... | /aɪd laɪk tuː bʊk/ | Tôi muốn đặt... |
+| Do you have availability on...? | /duː juː hæv əˌveɪləˈbɪlɪti ɒn/ | Còn chỗ vào ngày... không? |
+| I'll take the window seat | /aɪl teɪk ðə ˈwɪndoʊ siːt/ | Tôi lấy ghế cửa sổ |
+| Is it refundable? | /ɪz ɪt rɪˈfʌndəbəl/ | Có hoàn tiền không? |
+| Can I change the date? | /kæn aɪ tʃeɪndʒ ðə deɪt/ | Tôi có thể đổi ngày không? |
+| What's included? | /wɒts ɪnˈkluːdɪd/ | Bao gồm những gì? |
+| I'd like to confirm my reservation | /aɪd laɪk tuː kənˈfɜːrm maɪ ˌrɛzərˈveɪʃən/ | Tôi muốn xác nhận đặt chỗ |
+| How much is the cancellation fee? | /haʊ mʌtʃ ɪz ðə ˌkænsəˈleɪʃən fiː/ | Phí hủy là bao nhiêu? |
 
 ### Hội thoại mẫu — Đặt vé máy bay
 
@@ -109,17 +109,17 @@
 
 ## Nhà hàng
 
-| Tình huống | Câu |
-|---|---|
-| Vào nhà hàng | "Table for two, please" |
-| Hỏi menu | "Could we see the menu?" |
-| Gọi món | "I'll have the..." / "I'd like to try..." |
-| Hỏi gợi ý | "What do you recommend?" |
-| Dị ứng | "I'm allergic to..." / "Does this contain...?" |
-| Gọi thêm | "Can we get another round?" |
-| Tính tiền | "Check, please" / "Can we get the bill?" |
-| Chia bill | "Can we split the bill?" |
-| Khen món | "This is delicious!" / "Compliments to the chef" |
+| Tình huống | Câu | Phiên âm từ khóa |
+|---|---|---|
+| Vào nhà hàng | "Table for two, please" | /ˈteɪbəl fɔːr tuː pliːz/ |
+| Hỏi menu | "Could we see the menu?" | /kʊd wiː siː ðə ˈmɛnjuː/ |
+| Gọi món | "I'll have the..." / "I'd like to try..." | /aɪl hæv ðə / aɪd laɪk tuː traɪ/ |
+| Hỏi gợi ý | "What do you recommend?" | /wɒt duː juː ˌrɛkəˈmɛnd/ |
+| Dị ứng | "I'm allergic to..." / "Does this contain...?" | /aɪm əˈlɜːrdʒɪk tuː/ |
+| Gọi thêm | "Can we get another round?" | /kæn wiː ɡɛt əˈnʌðər raʊnd/ |
+| Tính tiền | "Check, please" / "Can we get the bill?" | /tʃɛk pliːz / kæn wiː ɡɛt ðə bɪl/ |
+| Chia bill | "Can we split the bill?" | /kæn wiː splɪt ðə bɪl/ |
+| Khen món | "This is delicious!" / "Compliments to the chef" | /ðɪs ɪz dɪˈlɪʃəs/ |
 
 ### Hội thoại mẫu — Nhà hàng
 
@@ -140,15 +140,15 @@
 
 ## Du lịch
 
-| Tình huống | Câu |
-|---|---|
-| Hỏi đường | "How do I get to...?" / "Is it within walking distance?" |
-| Sân bay | "Where's the baggage claim?" / "My luggage is missing" |
-| Khách sạn | "Early check-in, is that possible?" / "Can I extend my stay?" |
-| Giao thông | "Which line goes to...?" / "Does this stop at...?" |
-| Mua sắm | "Do you have this in a different size?" / "Can I get a receipt?" |
-| Khẩn cấp | "I need help" / "Call an ambulance, please" |
-| Cảm nhận | "This place is stunning!" / "It's worth the trip" |
+| Tình huống | Câu | Phiên âm từ khóa |
+|---|---|---|
+| Hỏi đường | "How do I get to...?" / "Is it within walking distance?" | /haʊ duː aɪ ɡɛt tuː / ˈwɔːkɪŋ ˈdɪstəns/ |
+| Sân bay | "Where's the baggage claim?" / "My luggage is missing" | /ˈbæɡɪdʒ kleɪm / ˈlʌɡɪdʒ ɪz ˈmɪsɪŋ/ |
+| Khách sạn | "Early check-in, is that possible?" / "Can I extend my stay?" | /ˈɜːrli tʃɛk ɪn / ɪkˈstɛnd maɪ steɪ/ |
+| Giao thông | "Which line goes to...?" / "Does this stop at...?" | /wɪtʃ laɪn ɡoʊz tuː / dʌz ðɪs stɒp æt/ |
+| Mua sắm | "Do you have this in a different size?" / "Can I get a receipt?" | /ˈdɪfrənt saɪz / rɪˈsiːt/ |
+| Khẩn cấp | "I need help" / "Call an ambulance, please" | /aɪ niːd hɛlp / kɔːl ən ˈæmbjuːləns/ |
+| Cảm nhận | "This place is stunning!" / "It's worth the trip" | /ˈstʌnɪŋ / wɜːrθ ðə trɪp/ |
 
 ### Hội thoại mẫu — Hỏi đường & tàu
 
@@ -170,15 +170,15 @@
 
 ## Nói chuyện về cuộc sống
 
-| Chủ đề | Câu |
-|---|---|
-| Hỏi thăm | "How have you been?" / "Long time no see!" |
-| Gia đình | "How are the kids?" / "My parents are visiting" |
-| Sức khỏe | "I've been under the weather" / "I'm trying to eat healthier" |
-| Công việc | "I just got promoted!" / "I'm thinking of switching jobs" |
-| Cảm xúc | "I'm overwhelmed" / "I needed that break" |
-| Tương lai | "I'm saving up for..." / "I'm thinking about moving to..." |
-| Triết lý nhẹ | "Life's too short" / "You only live once" / "It is what it is" |
+| Chủ đề | Câu | Phiên âm từ khóa |
+|---|---|---|
+| Hỏi thăm | "How have you been?" / "Long time no see!" | /haʊ hæv juː biːn / lɒŋ taɪm noʊ siː/ |
+| Gia đình | "How are the kids?" / "My parents are visiting" | /haʊ ɑːr ðə kɪdz / ˈpɛrənts ɑːr ˈvɪzɪtɪŋ/ |
+| Sức khỏe | "I've been under the weather" / "I'm trying to eat healthier" | /ˈʌndər ðə ˈwɛðər / ˈhɛlθɪər/ |
+| Công việc | "I just got promoted!" / "I'm thinking of switching jobs" | /ɡɒt prəˈmoʊtɪd / ˈswɪtʃɪŋ dʒɒbz/ |
+| Cảm xúc | "I'm overwhelmed" / "I needed that break" | /ˌoʊvərˈwɛlmd / ˈniːdɪd ðæt breɪk/ |
+| Tương lai | "I'm saving up for..." / "I'm thinking about moving to..." | /ˈseɪvɪŋ ʌp fɔːr / ˈmuːvɪŋ tuː/ |
+| Triết lý nhẹ | "Life's too short" / "You only live once" / "It is what it is" | /laɪfs tuː ʃɔːrt / juː ˈoʊnli lɪv wʌns/ |
 
 ---
 
